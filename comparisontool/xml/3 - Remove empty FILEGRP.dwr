@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<dwquery>
+  <queryparams matchcase="false" ignorewhitespace="false" useregexp="true" wholeword="false" />
+  <find>
+    <qtag qname="http://www.loc.gov/mets/:filegrp" qconvertednls="true"><qtag qname="http://www.loc.gov/mets/:file" qnegate="true"></qtag></qtag>
+  </find>
+  <replace action="removeTagAndContents" param1="" param2=""/>
+</dwquery>

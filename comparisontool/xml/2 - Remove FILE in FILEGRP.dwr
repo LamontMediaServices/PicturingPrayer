@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<dwquery>
+  <queryparams matchcase="false" ignorewhitespace="false" useregexp="true" wholeword="false" />
+  <find>
+    <qtag qname="http://www.loc.gov/mets/:file" qconvertednls="true"><qattribute qname="mimetype" qcompare="=" qvalue=".*TIFF.*"></qattribute></qtag>
+  </find>
+  <replace action="removeTagAndContents" param1="" param2=""/>
+</dwquery>

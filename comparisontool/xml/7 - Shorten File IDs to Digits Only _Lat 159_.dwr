@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<dwquery>
+  <queryparams matchcase="false" ignorewhitespace="false" useregexp="true" wholeword="false" />
+  <find>
+    <qtext qname="&quot;FIMG-JP2-\D*(\d+)&quot;" qraw="true"></qtext>
+  </find>
+  <replace action="replaceText" param1="&quot;$1&quot;" param2=""/>
+</dwquery>

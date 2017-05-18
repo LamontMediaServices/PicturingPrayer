@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<dwquery>
+  <queryparams matchcase="false" ignorewhitespace="false" useregexp="true" wholeword="false" />
+  <find>
+    <qtext qname="\r\n\s+\r\n" qraw="true"></qtext>
+  </find>
+  <replace action="replaceText" param1="
+" param2=""/>
+</dwquery>
