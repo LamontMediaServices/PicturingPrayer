@@ -1,0 +1,2748 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<mets LABEL="Houghton Library. MS Typ 1000. Catholic Church. Book of hours : manuscript, [not after 1530]." TYPE="PAGEDOBJECT" PROFILE="HULPDS" xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pds="http://hul.harvard.edu/ois/xml/ns/pds" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://hul.harvard.edu/ois/xml/ns/pds http://hul.harvard.edu/ois/xml/xsd/pds/pds.xsd">
+ <dmdSec ID="C0" GROUPID="CITATION">
+  <mdWrap MDTYPE="MODS">
+   <xmlData>
+    <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd" version="3.0">
+     <mods:name>
+      <mods:displayForm>Catholic Church.</mods:displayForm>
+     </mods:name>
+     <mods:titleInfo>
+      <mods:title>Houghton Library. MS Typ 1000. Catholic Church. Book of hours : manuscript, [not after 1530].</mods:title>
+     </mods:titleInfo>
+     <mods:identifier type="hollis">11260029</mods:identifier>
+    </mods:mods>
+   </xmlData>
+  </mdWrap>
+ </dmdSec>
+ <fileSec>
+  <fileGrp ID="image-jp2">
+   <file ID="0330">
+    <FLocat xlink:href="10310460"/>
+   </file>
+   <file ID="0002">
+    <FLocat xlink:href="10310132"/>
+   </file>
+   <file ID="0003">
+    <FLocat xlink:href="10310133"/>
+   </file>
+   <file ID="0004">
+    <FLocat xlink:href="10310134"/>
+   </file>
+   <file ID="0005">
+    <FLocat xlink:href="10310135"/>
+   </file>
+   <file ID="0006">
+    <FLocat xlink:href="10310136"/>
+   </file>
+   <file ID="0007">
+    <FLocat xlink:href="10310137"/>
+   </file>
+   <file ID="0008">
+    <FLocat xlink:href="10310138"/>
+   </file>
+   <file ID="0009">
+    <FLocat xlink:href="10310139"/>
+   </file>
+   <file ID="0010">
+    <FLocat xlink:href="10310140"/>
+   </file>
+   <file ID="0011">
+    <FLocat xlink:href="10310141"/>
+   </file>
+   <file ID="0012">
+    <FLocat xlink:href="10310142"/>
+   </file>
+   <file ID="0013">
+    <FLocat xlink:href="10310143"/>
+   </file>
+   <file ID="0014">
+    <FLocat xlink:href="10310144"/>
+   </file>
+   <file ID="0015">
+    <FLocat xlink:href="10310145"/>
+   </file>
+   <file ID="0016">
+    <FLocat xlink:href="10310146"/>
+   </file>
+   <file ID="0017">
+    <FLocat xlink:href="10310147"/>
+   </file>
+   <file ID="0018">
+    <FLocat xlink:href="10310148"/>
+   </file>
+   <file ID="0019">
+    <FLocat xlink:href="10310149"/>
+   </file>
+   <file ID="0020">
+    <FLocat xlink:href="10310150"/>
+   </file>
+   <file ID="0021">
+    <FLocat xlink:href="10310151"/>
+   </file>
+   <file ID="0022">
+    <FLocat xlink:href="10310152"/>
+   </file>
+   <file ID="0023">
+    <FLocat xlink:href="10310153"/>
+   </file>
+   <file ID="0024">
+    <FLocat xlink:href="10310154"/>
+   </file>
+   <file ID="0025">
+    <FLocat xlink:href="10310155"/>
+   </file>
+   <file ID="0026">
+    <FLocat xlink:href="10310156"/>
+   </file>
+   <file ID="0027">
+    <FLocat xlink:href="10310157"/>
+   </file>
+   <file ID="0028">
+    <FLocat xlink:href="10310158"/>
+   </file>
+   <file ID="0029">
+    <FLocat xlink:href="10310159"/>
+   </file>
+   <file ID="0030">
+    <FLocat xlink:href="10310160"/>
+   </file>
+   <file ID="0031">
+    <FLocat xlink:href="10310161"/>
+   </file>
+   <file ID="0032">
+    <FLocat xlink:href="10310162"/>
+   </file>
+   <file ID="0033">
+    <FLocat xlink:href="10310163"/>
+   </file>
+   <file ID="0034">
+    <FLocat xlink:href="10310164"/>
+   </file>
+   <file ID="0035">
+    <FLocat xlink:href="10310165"/>
+   </file>
+   <file ID="0036">
+    <FLocat xlink:href="10310166"/>
+   </file>
+   <file ID="0037">
+    <FLocat xlink:href="10310167"/>
+   </file>
+   <file ID="0038">
+    <FLocat xlink:href="10310168"/>
+   </file>
+   <file ID="0039">
+    <FLocat xlink:href="10310169"/>
+   </file>
+   <file ID="0040">
+    <FLocat xlink:href="10310170"/>
+   </file>
+   <file ID="0041">
+    <FLocat xlink:href="10310171"/>
+   </file>
+   <file ID="0042">
+    <FLocat xlink:href="10310172"/>
+   </file>
+   <file ID="0043">
+    <FLocat xlink:href="10310173"/>
+   </file>
+   <file ID="0044">
+    <FLocat xlink:href="10310174"/>
+   </file>
+   <file ID="0045">
+    <FLocat xlink:href="10310175"/>
+   </file>
+   <file ID="0046">
+    <FLocat xlink:href="10310176"/>
+   </file>
+   <file ID="0047">
+    <FLocat xlink:href="10310177"/>
+   </file>
+   <file ID="0048">
+    <FLocat xlink:href="10310178"/>
+   </file>
+   <file ID="0049">
+    <FLocat xlink:href="10310179"/>
+   </file>
+   <file ID="0050">
+    <FLocat xlink:href="10310180"/>
+   </file>
+   <file ID="0051">
+    <FLocat xlink:href="10310181"/>
+   </file>
+   <file ID="0052">
+    <FLocat xlink:href="10310182"/>
+   </file>
+   <file ID="0053">
+    <FLocat xlink:href="10310183"/>
+   </file>
+   <file ID="0054">
+    <FLocat xlink:href="10310184"/>
+   </file>
+   <file ID="0055">
+    <FLocat xlink:href="10310185"/>
+   </file>
+   <file ID="0056">
+    <FLocat xlink:href="10310186"/>
+   </file>
+   <file ID="0057">
+    <FLocat xlink:href="10310187"/>
+   </file>
+   <file ID="0058">
+    <FLocat xlink:href="10310188"/>
+   </file>
+   <file ID="0059">
+    <FLocat xlink:href="10310189"/>
+   </file>
+   <file ID="0060">
+    <FLocat xlink:href="10310190"/>
+   </file>
+   <file ID="0061">
+    <FLocat xlink:href="10310191"/>
+   </file>
+   <file ID="0062">
+    <FLocat xlink:href="10310192"/>
+   </file>
+   <file ID="0063">
+    <FLocat xlink:href="10310193"/>
+   </file>
+   <file ID="0064">
+    <FLocat xlink:href="10310194"/>
+   </file>
+   <file ID="0065">
+    <FLocat xlink:href="10310195"/>
+   </file>
+   <file ID="0066">
+    <FLocat xlink:href="10310196"/>
+   </file>
+   <file ID="0067">
+    <FLocat xlink:href="10310197"/>
+   </file>
+   <file ID="0068">
+    <FLocat xlink:href="10310198"/>
+   </file>
+   <file ID="0069">
+    <FLocat xlink:href="10310199"/>
+   </file>
+   <file ID="0070">
+    <FLocat xlink:href="10310200"/>
+   </file>
+   <file ID="0071">
+    <FLocat xlink:href="10310201"/>
+   </file>
+   <file ID="0072">
+    <FLocat xlink:href="10310202"/>
+   </file>
+   <file ID="0073">
+    <FLocat xlink:href="10310203"/>
+   </file>
+   <file ID="0074">
+    <FLocat xlink:href="10310204"/>
+   </file>
+   <file ID="0075">
+    <FLocat xlink:href="10310205"/>
+   </file>
+   <file ID="0076">
+    <FLocat xlink:href="10310206"/>
+   </file>
+   <file ID="0077">
+    <FLocat xlink:href="10310207"/>
+   </file>
+   <file ID="0078">
+    <FLocat xlink:href="10310208"/>
+   </file>
+   <file ID="0079">
+    <FLocat xlink:href="10310209"/>
+   </file>
+   <file ID="0080">
+    <FLocat xlink:href="10310210"/>
+   </file>
+   <file ID="0081">
+    <FLocat xlink:href="10310211"/>
+   </file>
+   <file ID="0082">
+    <FLocat xlink:href="10310212"/>
+   </file>
+   <file ID="0083">
+    <FLocat xlink:href="10310213"/>
+   </file>
+   <file ID="0084">
+    <FLocat xlink:href="10310214"/>
+   </file>
+   <file ID="0085">
+    <FLocat xlink:href="10310215"/>
+   </file>
+   <file ID="0086">
+    <FLocat xlink:href="10310216"/>
+   </file>
+   <file ID="0087">
+    <FLocat xlink:href="10310217"/>
+   </file>
+   <file ID="0088">
+    <FLocat xlink:href="10310218"/>
+   </file>
+   <file ID="0089">
+    <FLocat xlink:href="10310219"/>
+   </file>
+   <file ID="0090">
+    <FLocat xlink:href="10310220"/>
+   </file>
+   <file ID="0091">
+    <FLocat xlink:href="10310221"/>
+   </file>
+   <file ID="0092">
+    <FLocat xlink:href="10310222"/>
+   </file>
+   <file ID="0093">
+    <FLocat xlink:href="10310223"/>
+   </file>
+   <file ID="0094">
+    <FLocat xlink:href="10310224"/>
+   </file>
+   <file ID="0095">
+    <FLocat xlink:href="10310225"/>
+   </file>
+   <file ID="0096">
+    <FLocat xlink:href="10310226"/>
+   </file>
+   <file ID="0097">
+    <FLocat xlink:href="10310227"/>
+   </file>
+   <file ID="0098">
+    <FLocat xlink:href="10310228"/>
+   </file>
+   <file ID="0099">
+    <FLocat xlink:href="10310229"/>
+   </file>
+   <file ID="0100">
+    <FLocat xlink:href="10310230"/>
+   </file>
+   <file ID="0101">
+    <FLocat xlink:href="10310231"/>
+   </file>
+   <file ID="0102">
+    <FLocat xlink:href="10310232"/>
+   </file>
+   <file ID="0103">
+    <FLocat xlink:href="10310233"/>
+   </file>
+   <file ID="0104">
+    <FLocat xlink:href="10310234"/>
+   </file>
+   <file ID="0105">
+    <FLocat xlink:href="10310235"/>
+   </file>
+   <file ID="0106">
+    <FLocat xlink:href="10310236"/>
+   </file>
+   <file ID="0107">
+    <FLocat xlink:href="10310237"/>
+   </file>
+   <file ID="0108">
+    <FLocat xlink:href="10310238"/>
+   </file>
+   <file ID="0109">
+    <FLocat xlink:href="10310239"/>
+   </file>
+   <file ID="0110">
+    <FLocat xlink:href="10310240"/>
+   </file>
+   <file ID="0111">
+    <FLocat xlink:href="10310241"/>
+   </file>
+   <file ID="0112">
+    <FLocat xlink:href="10310242"/>
+   </file>
+   <file ID="0113">
+    <FLocat xlink:href="10310243"/>
+   </file>
+   <file ID="0114">
+    <FLocat xlink:href="10310244"/>
+   </file>
+   <file ID="0115">
+    <FLocat xlink:href="10310245"/>
+   </file>
+   <file ID="0116">
+    <FLocat xlink:href="10310246"/>
+   </file>
+   <file ID="0117">
+    <FLocat xlink:href="10310247"/>
+   </file>
+   <file ID="0118">
+    <FLocat xlink:href="10310248"/>
+   </file>
+   <file ID="0119">
+    <FLocat xlink:href="10310249"/>
+   </file>
+   <file ID="0120">
+    <FLocat xlink:href="10310250"/>
+   </file>
+   <file ID="0121">
+    <FLocat xlink:href="10310251"/>
+   </file>
+   <file ID="0122">
+    <FLocat xlink:href="10310252"/>
+   </file>
+   <file ID="0123">
+    <FLocat xlink:href="10310253"/>
+   </file>
+   <file ID="0124">
+    <FLocat xlink:href="10310254"/>
+   </file>
+   <file ID="0125">
+    <FLocat xlink:href="10310255"/>
+   </file>
+   <file ID="0126">
+    <FLocat xlink:href="10310256"/>
+   </file>
+   <file ID="0127">
+    <FLocat xlink:href="10310257"/>
+   </file>
+   <file ID="0128">
+    <FLocat xlink:href="10310258"/>
+   </file>
+   <file ID="0129">
+    <FLocat xlink:href="10310259"/>
+   </file>
+   <file ID="0130">
+    <FLocat xlink:href="10310260"/>
+   </file>
+   <file ID="0131">
+    <FLocat xlink:href="10310261"/>
+   </file>
+   <file ID="0132">
+    <FLocat xlink:href="10310262"/>
+   </file>
+   <file ID="0133">
+    <FLocat xlink:href="10310263"/>
+   </file>
+   <file ID="0134">
+    <FLocat xlink:href="10310264"/>
+   </file>
+   <file ID="0135">
+    <FLocat xlink:href="10310265"/>
+   </file>
+   <file ID="0136">
+    <FLocat xlink:href="10310266"/>
+   </file>
+   <file ID="0137">
+    <FLocat xlink:href="10310267"/>
+   </file>
+   <file ID="0138">
+    <FLocat xlink:href="10310268"/>
+   </file>
+   <file ID="0139">
+    <FLocat xlink:href="10310269"/>
+   </file>
+   <file ID="0140">
+    <FLocat xlink:href="10310270"/>
+   </file>
+   <file ID="0141">
+    <FLocat xlink:href="10310271"/>
+   </file>
+   <file ID="0142">
+    <FLocat xlink:href="10310272"/>
+   </file>
+   <file ID="0143">
+    <FLocat xlink:href="10310273"/>
+   </file>
+   <file ID="0144">
+    <FLocat xlink:href="10310274"/>
+   </file>
+   <file ID="0145">
+    <FLocat xlink:href="10310275"/>
+   </file>
+   <file ID="0146">
+    <FLocat xlink:href="10310276"/>
+   </file>
+   <file ID="0147">
+    <FLocat xlink:href="10310277"/>
+   </file>
+   <file ID="0148">
+    <FLocat xlink:href="10310278"/>
+   </file>
+   <file ID="0149">
+    <FLocat xlink:href="10310279"/>
+   </file>
+   <file ID="0150">
+    <FLocat xlink:href="10310280"/>
+   </file>
+   <file ID="0151">
+    <FLocat xlink:href="10310281"/>
+   </file>
+   <file ID="0152">
+    <FLocat xlink:href="10310282"/>
+   </file>
+   <file ID="0153">
+    <FLocat xlink:href="10310283"/>
+   </file>
+   <file ID="0154">
+    <FLocat xlink:href="10310284"/>
+   </file>
+   <file ID="0155">
+    <FLocat xlink:href="10310285"/>
+   </file>
+   <file ID="0156">
+    <FLocat xlink:href="10310286"/>
+   </file>
+   <file ID="0157">
+    <FLocat xlink:href="10310287"/>
+   </file>
+   <file ID="0158">
+    <FLocat xlink:href="10310288"/>
+   </file>
+   <file ID="0159">
+    <FLocat xlink:href="10310289"/>
+   </file>
+   <file ID="0160">
+    <FLocat xlink:href="10310290"/>
+   </file>
+   <file ID="0161">
+    <FLocat xlink:href="10310291"/>
+   </file>
+   <file ID="0162">
+    <FLocat xlink:href="10310292"/>
+   </file>
+   <file ID="0163">
+    <FLocat xlink:href="10310293"/>
+   </file>
+   <file ID="0164">
+    <FLocat xlink:href="10310294"/>
+   </file>
+   <file ID="0165">
+    <FLocat xlink:href="10310295"/>
+   </file>
+   <file ID="0166">
+    <FLocat xlink:href="10310296"/>
+   </file>
+   <file ID="0167">
+    <FLocat xlink:href="10310297"/>
+   </file>
+   <file ID="0168">
+    <FLocat xlink:href="10310298"/>
+   </file>
+   <file ID="0169">
+    <FLocat xlink:href="10310299"/>
+   </file>
+   <file ID="0170">
+    <FLocat xlink:href="10310300"/>
+   </file>
+   <file ID="0171">
+    <FLocat xlink:href="10310301"/>
+   </file>
+   <file ID="0172">
+    <FLocat xlink:href="10310302"/>
+   </file>
+   <file ID="0173">
+    <FLocat xlink:href="10310303"/>
+   </file>
+   <file ID="0174">
+    <FLocat xlink:href="10310304"/>
+   </file>
+   <file ID="0175">
+    <FLocat xlink:href="10310305"/>
+   </file>
+   <file ID="0176">
+    <FLocat xlink:href="10310306"/>
+   </file>
+   <file ID="0177">
+    <FLocat xlink:href="10310307"/>
+   </file>
+   <file ID="0178">
+    <FLocat xlink:href="10310308"/>
+   </file>
+   <file ID="0179">
+    <FLocat xlink:href="10310309"/>
+   </file>
+   <file ID="0180">
+    <FLocat xlink:href="10310310"/>
+   </file>
+   <file ID="0181">
+    <FLocat xlink:href="10310311"/>
+   </file>
+   <file ID="0182">
+    <FLocat xlink:href="10310312"/>
+   </file>
+   <file ID="0183">
+    <FLocat xlink:href="10310313"/>
+   </file>
+   <file ID="0184">
+    <FLocat xlink:href="10310314"/>
+   </file>
+   <file ID="0185">
+    <FLocat xlink:href="10310315"/>
+   </file>
+   <file ID="0186">
+    <FLocat xlink:href="10310316"/>
+   </file>
+   <file ID="0187">
+    <FLocat xlink:href="10310317"/>
+   </file>
+   <file ID="0188">
+    <FLocat xlink:href="10310318"/>
+   </file>
+   <file ID="0189">
+    <FLocat xlink:href="10310319"/>
+   </file>
+   <file ID="0190">
+    <FLocat xlink:href="10310320"/>
+   </file>
+   <file ID="0191">
+    <FLocat xlink:href="10310321"/>
+   </file>
+   <file ID="0192">
+    <FLocat xlink:href="10310322"/>
+   </file>
+   <file ID="0193">
+    <FLocat xlink:href="10310323"/>
+   </file>
+   <file ID="0194">
+    <FLocat xlink:href="10310324"/>
+   </file>
+   <file ID="0195">
+    <FLocat xlink:href="10310325"/>
+   </file>
+   <file ID="0196">
+    <FLocat xlink:href="10310326"/>
+   </file>
+   <file ID="0197">
+    <FLocat xlink:href="10310327"/>
+   </file>
+   <file ID="0198">
+    <FLocat xlink:href="10310328"/>
+   </file>
+   <file ID="0199">
+    <FLocat xlink:href="10310329"/>
+   </file>
+   <file ID="0200">
+    <FLocat xlink:href="10310330"/>
+   </file>
+   <file ID="0201">
+    <FLocat xlink:href="10310331"/>
+   </file>
+   <file ID="0202">
+    <FLocat xlink:href="10310332"/>
+   </file>
+   <file ID="0203">
+    <FLocat xlink:href="10310333"/>
+   </file>
+   <file ID="0204">
+    <FLocat xlink:href="10310334"/>
+   </file>
+   <file ID="0205">
+    <FLocat xlink:href="10310335"/>
+   </file>
+   <file ID="0206">
+    <FLocat xlink:href="10310336"/>
+   </file>
+   <file ID="0207">
+    <FLocat xlink:href="10310337"/>
+   </file>
+   <file ID="0208">
+    <FLocat xlink:href="10310338"/>
+   </file>
+   <file ID="0209">
+    <FLocat xlink:href="10310339"/>
+   </file>
+   <file ID="0210">
+    <FLocat xlink:href="10310340"/>
+   </file>
+   <file ID="0211">
+    <FLocat xlink:href="10310341"/>
+   </file>
+   <file ID="0212">
+    <FLocat xlink:href="10310342"/>
+   </file>
+   <file ID="0213">
+    <FLocat xlink:href="10310343"/>
+   </file>
+   <file ID="0214">
+    <FLocat xlink:href="10310344"/>
+   </file>
+   <file ID="0215">
+    <FLocat xlink:href="10310345"/>
+   </file>
+   <file ID="0216">
+    <FLocat xlink:href="10310346"/>
+   </file>
+   <file ID="0217">
+    <FLocat xlink:href="10310347"/>
+   </file>
+   <file ID="0218">
+    <FLocat xlink:href="10310348"/>
+   </file>
+   <file ID="0219">
+    <FLocat xlink:href="10310349"/>
+   </file>
+   <file ID="0220">
+    <FLocat xlink:href="10310350"/>
+   </file>
+   <file ID="0221">
+    <FLocat xlink:href="10310351"/>
+   </file>
+   <file ID="0222">
+    <FLocat xlink:href="10310352"/>
+   </file>
+   <file ID="0223">
+    <FLocat xlink:href="10310353"/>
+   </file>
+   <file ID="0224">
+    <FLocat xlink:href="10310354"/>
+   </file>
+   <file ID="0225">
+    <FLocat xlink:href="10310355"/>
+   </file>
+   <file ID="0226">
+    <FLocat xlink:href="10310356"/>
+   </file>
+   <file ID="0227">
+    <FLocat xlink:href="10310357"/>
+   </file>
+   <file ID="0228">
+    <FLocat xlink:href="10310358"/>
+   </file>
+   <file ID="0229">
+    <FLocat xlink:href="10310359"/>
+   </file>
+   <file ID="0230">
+    <FLocat xlink:href="10310360"/>
+   </file>
+   <file ID="0231">
+    <FLocat xlink:href="10310361"/>
+   </file>
+   <file ID="0232">
+    <FLocat xlink:href="10310362"/>
+   </file>
+   <file ID="0233">
+    <FLocat xlink:href="10310363"/>
+   </file>
+   <file ID="0234">
+    <FLocat xlink:href="10310364"/>
+   </file>
+   <file ID="0235">
+    <FLocat xlink:href="10310365"/>
+   </file>
+   <file ID="0236">
+    <FLocat xlink:href="10310366"/>
+   </file>
+   <file ID="0237">
+    <FLocat xlink:href="10310367"/>
+   </file>
+   <file ID="0238">
+    <FLocat xlink:href="10310368"/>
+   </file>
+   <file ID="0239">
+    <FLocat xlink:href="10310369"/>
+   </file>
+   <file ID="0240">
+    <FLocat xlink:href="10310370"/>
+   </file>
+   <file ID="0241">
+    <FLocat xlink:href="10310371"/>
+   </file>
+   <file ID="0242">
+    <FLocat xlink:href="10310372"/>
+   </file>
+   <file ID="0243">
+    <FLocat xlink:href="10310373"/>
+   </file>
+   <file ID="0244">
+    <FLocat xlink:href="10310374"/>
+   </file>
+   <file ID="0245">
+    <FLocat xlink:href="10310375"/>
+   </file>
+   <file ID="0246">
+    <FLocat xlink:href="10310376"/>
+   </file>
+   <file ID="0247">
+    <FLocat xlink:href="10310377"/>
+   </file>
+   <file ID="0248">
+    <FLocat xlink:href="10310378"/>
+   </file>
+   <file ID="0249">
+    <FLocat xlink:href="10310379"/>
+   </file>
+   <file ID="0250">
+    <FLocat xlink:href="10310380"/>
+   </file>
+   <file ID="0251">
+    <FLocat xlink:href="10310381"/>
+   </file>
+   <file ID="0252">
+    <FLocat xlink:href="10310382"/>
+   </file>
+   <file ID="0253">
+    <FLocat xlink:href="10310383"/>
+   </file>
+   <file ID="0254">
+    <FLocat xlink:href="10310384"/>
+   </file>
+   <file ID="0255">
+    <FLocat xlink:href="10310385"/>
+   </file>
+   <file ID="0256">
+    <FLocat xlink:href="10310386"/>
+   </file>
+   <file ID="0257">
+    <FLocat xlink:href="10310387"/>
+   </file>
+   <file ID="0258">
+    <FLocat xlink:href="10310388"/>
+   </file>
+   <file ID="0259">
+    <FLocat xlink:href="10310389"/>
+   </file>
+   <file ID="0260">
+    <FLocat xlink:href="10310390"/>
+   </file>
+   <file ID="0261">
+    <FLocat xlink:href="10310391"/>
+   </file>
+   <file ID="0262">
+    <FLocat xlink:href="10310392"/>
+   </file>
+   <file ID="0263">
+    <FLocat xlink:href="10310393"/>
+   </file>
+   <file ID="0264">
+    <FLocat xlink:href="10310394"/>
+   </file>
+   <file ID="0265">
+    <FLocat xlink:href="10310395"/>
+   </file>
+   <file ID="0266">
+    <FLocat xlink:href="10310396"/>
+   </file>
+   <file ID="0267">
+    <FLocat xlink:href="10310397"/>
+   </file>
+   <file ID="0268">
+    <FLocat xlink:href="10310398"/>
+   </file>
+   <file ID="0269">
+    <FLocat xlink:href="10310399"/>
+   </file>
+   <file ID="0270">
+    <FLocat xlink:href="10310400"/>
+   </file>
+   <file ID="0271">
+    <FLocat xlink:href="10310401"/>
+   </file>
+   <file ID="0272">
+    <FLocat xlink:href="10310402"/>
+   </file>
+   <file ID="0273">
+    <FLocat xlink:href="10310403"/>
+   </file>
+   <file ID="0274">
+    <FLocat xlink:href="10310404"/>
+   </file>
+   <file ID="0275">
+    <FLocat xlink:href="10310405"/>
+   </file>
+   <file ID="0276">
+    <FLocat xlink:href="10310406"/>
+   </file>
+   <file ID="0277">
+    <FLocat xlink:href="10310407"/>
+   </file>
+   <file ID="0278">
+    <FLocat xlink:href="10310408"/>
+   </file>
+   <file ID="0279">
+    <FLocat xlink:href="10310409"/>
+   </file>
+   <file ID="0280">
+    <FLocat xlink:href="10310410"/>
+   </file>
+   <file ID="0281">
+    <FLocat xlink:href="10310411"/>
+   </file>
+   <file ID="0282">
+    <FLocat xlink:href="10310412"/>
+   </file>
+   <file ID="0283">
+    <FLocat xlink:href="10310413"/>
+   </file>
+   <file ID="0284">
+    <FLocat xlink:href="10310414"/>
+   </file>
+   <file ID="0285">
+    <FLocat xlink:href="10310415"/>
+   </file>
+   <file ID="0286">
+    <FLocat xlink:href="10310416"/>
+   </file>
+   <file ID="0287">
+    <FLocat xlink:href="10310417"/>
+   </file>
+   <file ID="0288">
+    <FLocat xlink:href="10310418"/>
+   </file>
+   <file ID="0289">
+    <FLocat xlink:href="10310419"/>
+   </file>
+   <file ID="0290">
+    <FLocat xlink:href="10310420"/>
+   </file>
+   <file ID="0291">
+    <FLocat xlink:href="10310421"/>
+   </file>
+   <file ID="0292">
+    <FLocat xlink:href="10310422"/>
+   </file>
+   <file ID="0293">
+    <FLocat xlink:href="10310423"/>
+   </file>
+   <file ID="0294">
+    <FLocat xlink:href="10310424"/>
+   </file>
+   <file ID="0295">
+    <FLocat xlink:href="10310425"/>
+   </file>
+   <file ID="0296">
+    <FLocat xlink:href="10310426"/>
+   </file>
+   <file ID="0297">
+    <FLocat xlink:href="10310427"/>
+   </file>
+   <file ID="0298">
+    <FLocat xlink:href="10310428"/>
+   </file>
+   <file ID="0299">
+    <FLocat xlink:href="10310429"/>
+   </file>
+   <file ID="0300">
+    <FLocat xlink:href="10310430"/>
+   </file>
+   <file ID="0301">
+    <FLocat xlink:href="10310431"/>
+   </file>
+   <file ID="0302">
+    <FLocat xlink:href="10310432"/>
+   </file>
+   <file ID="0303">
+    <FLocat xlink:href="10310433"/>
+   </file>
+   <file ID="0304">
+    <FLocat xlink:href="10310434"/>
+   </file>
+   <file ID="0305">
+    <FLocat xlink:href="10310435"/>
+   </file>
+   <file ID="0306">
+    <FLocat xlink:href="10310436"/>
+   </file>
+   <file ID="0307">
+    <FLocat xlink:href="10310437"/>
+   </file>
+   <file ID="0308">
+    <FLocat xlink:href="10310438"/>
+   </file>
+   <file ID="0309">
+    <FLocat xlink:href="10310439"/>
+   </file>
+   <file ID="0310">
+    <FLocat xlink:href="10310440"/>
+   </file>
+   <file ID="0311">
+    <FLocat xlink:href="10310441"/>
+   </file>
+   <file ID="0312">
+    <FLocat xlink:href="10310442"/>
+   </file>
+   <file ID="0313">
+    <FLocat xlink:href="10310443"/>
+   </file>
+   <file ID="0314">
+    <FLocat xlink:href="10310444"/>
+   </file>
+   <file ID="0315">
+    <FLocat xlink:href="10310445"/>
+   </file>
+   <file ID="0316">
+    <FLocat xlink:href="10310446"/>
+   </file>
+   <file ID="0317">
+    <FLocat xlink:href="10310447"/>
+   </file>
+   <file ID="0318">
+    <FLocat xlink:href="10310448"/>
+   </file>
+   <file ID="0319">
+    <FLocat xlink:href="10310449"/>
+   </file>
+   <file ID="0320">
+    <FLocat xlink:href="10310450"/>
+   </file>
+   <file ID="0321">
+    <FLocat xlink:href="10310451"/>
+   </file>
+   <file ID="0322">
+    <FLocat xlink:href="10310452"/>
+   </file>
+   <file ID="0323">
+    <FLocat xlink:href="10310453"/>
+   </file>
+   <file ID="0324">
+    <FLocat xlink:href="10310454"/>
+   </file>
+   <file ID="0325">
+    <FLocat xlink:href="10310455"/>
+   </file>
+   <file ID="0326">
+    <FLocat xlink:href="10310456"/>
+   </file>
+   <file ID="0327">
+    <FLocat xlink:href="10310457"/>
+   </file>
+   <file ID="0328">
+    <FLocat xlink:href="10310458"/>
+   </file>
+   <file ID="0329">
+    <FLocat xlink:href="10310459"/>
+   </file>
+   <file ID="0001">
+    <FLocat xlink:href="10310131"/>
+   </file>
+  </fileGrp>
+ </fileSec>
+ <structMap>
+  <div DMDID="C0" TYPE="CITATION">
+   <div LABEL="Front Matter" TYPE="INTERMEDIATE">
+    <div LABEL="Front cover" TYPE="INTERMEDIATE">
+     <div ORDER="1" TYPE="PAGE">
+      <fptr FILEID="0330"/>
+     </div>
+    </div>
+    <div LABEL="Spine" TYPE="INTERMEDIATE">
+     <div ORDER="2" TYPE="PAGE">
+      <fptr FILEID="0002"/>
+     </div>
+    </div>
+    <div LABEL="Hinge" TYPE="INTERMEDIATE">
+     <div ORDER="3" TYPE="PAGE">
+      <fptr FILEID="0003"/>
+     </div>
+    </div>
+    <div LABEL="Inside front cover" TYPE="INTERMEDIATE">
+     <div ORDER="4" TYPE="PAGE">
+      <fptr FILEID="0004"/>
+     </div>
+    </div>
+    <div LABEL="f. 1." TYPE="INTERMEDIATE">
+     <div ORDER="5" TYPE="PAGE">
+      <fptr FILEID="0005"/>
+     </div>
+    </div>
+    <div LABEL="f. 1v." TYPE="INTERMEDIATE">
+     <div ORDER="6" TYPE="PAGE">
+      <fptr FILEID="0006"/>
+     </div>
+    </div>
+   </div>
+   <div LABEL="Calendar (ff. 2-14)" TYPE="INTERMEDIATE">
+    <div LABEL="January (ff. 2-2v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 2: Aquarius" TYPE="INTERMEDIATE">
+      <div ORDER="7" TYPE="PAGE">
+       <fptr FILEID="0007"/>
+      </div>
+     </div>
+     <div LABEL="f. 2v." TYPE="INTERMEDIATE">
+      <div ORDER="8" TYPE="PAGE">
+       <fptr FILEID="0008"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="February (ff. 3-3v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 3: Pisces" TYPE="INTERMEDIATE">
+      <div ORDER="9" TYPE="PAGE">
+       <fptr FILEID="0009"/>
+      </div>
+     </div>
+     <div LABEL="f. 3v." TYPE="INTERMEDIATE">
+      <div ORDER="10" TYPE="PAGE">
+       <fptr FILEID="0010"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="March (ff. 4-4v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 4: Aries" TYPE="INTERMEDIATE">
+      <div ORDER="11" TYPE="PAGE">
+       <fptr FILEID="0011"/>
+      </div>
+     </div>
+     <div LABEL="f. 4v." TYPE="INTERMEDIATE">
+      <div ORDER="12" TYPE="PAGE">
+       <fptr FILEID="0012"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="April (ff. 5-5v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 5: Taurus" TYPE="INTERMEDIATE">
+      <div ORDER="13" TYPE="PAGE">
+       <fptr FILEID="0013"/>
+      </div>
+     </div>
+     <div LABEL="f. 5v." TYPE="INTERMEDIATE">
+      <div ORDER="14" TYPE="PAGE">
+       <fptr FILEID="0014"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="May (ff. 6-6v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 6: Gemini" TYPE="INTERMEDIATE">
+      <div ORDER="15" TYPE="PAGE">
+       <fptr FILEID="0015"/>
+      </div>
+     </div>
+     <div LABEL="f. 6v." TYPE="INTERMEDIATE">
+      <div ORDER="16" TYPE="PAGE">
+       <fptr FILEID="0016"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="June (ff. 7-7v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 7: Cancer" TYPE="INTERMEDIATE">
+      <div ORDER="17" TYPE="PAGE">
+       <fptr FILEID="0017"/>
+      </div>
+     </div>
+     <div LABEL="f. 7v." TYPE="INTERMEDIATE">
+      <div ORDER="18" TYPE="PAGE">
+       <fptr FILEID="0018"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="July (ff. 8-8v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 8: Leo" TYPE="INTERMEDIATE">
+      <div ORDER="19" TYPE="PAGE">
+       <fptr FILEID="0019"/>
+      </div>
+     </div>
+     <div LABEL="f. 8v." TYPE="INTERMEDIATE">
+      <div ORDER="20" TYPE="PAGE">
+       <fptr FILEID="0020"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="August (ff. 9-9v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 9: Virgo" TYPE="INTERMEDIATE">
+      <div ORDER="21" TYPE="PAGE">
+       <fptr FILEID="0021"/>
+      </div>
+     </div>
+     <div LABEL="f. 9v." TYPE="INTERMEDIATE">
+      <div ORDER="22" TYPE="PAGE">
+       <fptr FILEID="0022"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="September (ff. 10-10v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 10: Libra" TYPE="INTERMEDIATE">
+      <div ORDER="23" TYPE="PAGE">
+       <fptr FILEID="0023"/>
+      </div>
+     </div>
+     <div LABEL="f. 10v." TYPE="INTERMEDIATE">
+      <div ORDER="24" TYPE="PAGE">
+       <fptr FILEID="0024"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="October (ff. 11-11v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 11: Scorpio" TYPE="INTERMEDIATE">
+      <div ORDER="25" TYPE="PAGE">
+       <fptr FILEID="0025"/>
+      </div>
+     </div>
+     <div LABEL="f. 11v." TYPE="INTERMEDIATE">
+      <div ORDER="26" TYPE="PAGE">
+       <fptr FILEID="0026"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="November (ff. 12-12v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 12: Sagittarius" TYPE="INTERMEDIATE">
+      <div ORDER="27" TYPE="PAGE">
+       <fptr FILEID="0027"/>
+      </div>
+     </div>
+     <div LABEL="f. 12v." TYPE="INTERMEDIATE">
+      <div ORDER="28" TYPE="PAGE">
+       <fptr FILEID="0028"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="December (ff. 13-13v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 13: Capricorn" TYPE="INTERMEDIATE">
+      <div ORDER="29" TYPE="PAGE">
+       <fptr FILEID="0029"/>
+      </div>
+     </div>
+     <div LABEL="f. 13v." TYPE="INTERMEDIATE">
+      <div ORDER="30" TYPE="PAGE">
+       <fptr FILEID="0030"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="f. 14: Blank." TYPE="INTERMEDIATE">
+     <div ORDER="31" TYPE="PAGE">
+      <fptr FILEID="0031"/>
+     </div>
+    </div>
+   </div>
+   <div LABEL="Hours of the Virgin (ff. 14v-66v)" TYPE="INTERMEDIATE">
+    <div LABEL="Matins (ff. 14v-24v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 14v: Annunciation" TYPE="INTERMEDIATE">
+      <div ORDER="32" TYPE="PAGE">
+       <fptr FILEID="0032"/>
+      </div>
+     </div>
+     <div LABEL="f. 15." TYPE="INTERMEDIATE">
+      <div ORDER="33" TYPE="PAGE">
+       <fptr FILEID="0033"/>
+      </div>
+     </div>
+     <div LABEL="f. 15v." TYPE="INTERMEDIATE">
+      <div ORDER="34" TYPE="PAGE">
+       <fptr FILEID="0034"/>
+      </div>
+     </div>
+     <div LABEL="f. 16." TYPE="INTERMEDIATE">
+      <div ORDER="35" TYPE="PAGE">
+       <fptr FILEID="0035"/>
+      </div>
+     </div>
+     <div LABEL="f. 16v." TYPE="INTERMEDIATE">
+      <div ORDER="36" TYPE="PAGE">
+       <fptr FILEID="0036"/>
+      </div>
+     </div>
+     <div LABEL="f. 17." TYPE="INTERMEDIATE">
+      <div ORDER="37" TYPE="PAGE">
+       <fptr FILEID="0037"/>
+      </div>
+     </div>
+     <div LABEL="f. 17v." TYPE="INTERMEDIATE">
+      <div ORDER="38" TYPE="PAGE">
+       <fptr FILEID="0038"/>
+      </div>
+     </div>
+     <div LABEL="f. 18." TYPE="INTERMEDIATE">
+      <div ORDER="39" TYPE="PAGE">
+       <fptr FILEID="0039"/>
+      </div>
+     </div>
+     <div LABEL="f. 18v." TYPE="INTERMEDIATE">
+      <div ORDER="40" TYPE="PAGE">
+       <fptr FILEID="0040"/>
+      </div>
+     </div>
+     <div LABEL="f. 19." TYPE="INTERMEDIATE">
+      <div ORDER="41" TYPE="PAGE">
+       <fptr FILEID="0041"/>
+      </div>
+     </div>
+     <div LABEL="f. 19v." TYPE="INTERMEDIATE">
+      <div ORDER="42" TYPE="PAGE">
+       <fptr FILEID="0042"/>
+      </div>
+     </div>
+     <div LABEL="f. 20." TYPE="INTERMEDIATE">
+      <div ORDER="43" TYPE="PAGE">
+       <fptr FILEID="0043"/>
+      </div>
+     </div>
+     <div LABEL="f. 20v." TYPE="INTERMEDIATE">
+      <div ORDER="44" TYPE="PAGE">
+       <fptr FILEID="0044"/>
+      </div>
+     </div>
+     <div LABEL="f. 21." TYPE="INTERMEDIATE">
+      <div ORDER="45" TYPE="PAGE">
+       <fptr FILEID="0045"/>
+      </div>
+     </div>
+     <div LABEL="f. 21v." TYPE="INTERMEDIATE">
+      <div ORDER="46" TYPE="PAGE">
+       <fptr FILEID="0046"/>
+      </div>
+     </div>
+     <div LABEL="f. 22." TYPE="INTERMEDIATE">
+      <div ORDER="47" TYPE="PAGE">
+       <fptr FILEID="0047"/>
+      </div>
+     </div>
+     <div LABEL="f. 22v." TYPE="INTERMEDIATE">
+      <div ORDER="48" TYPE="PAGE">
+       <fptr FILEID="0048"/>
+      </div>
+     </div>
+     <div LABEL="f. 23." TYPE="INTERMEDIATE">
+      <div ORDER="49" TYPE="PAGE">
+       <fptr FILEID="0049"/>
+      </div>
+     </div>
+     <div LABEL="f. 23v." TYPE="INTERMEDIATE">
+      <div ORDER="50" TYPE="PAGE">
+       <fptr FILEID="0050"/>
+      </div>
+     </div>
+     <div LABEL="f. 24." TYPE="INTERMEDIATE">
+      <div ORDER="51" TYPE="PAGE">
+       <fptr FILEID="0051"/>
+      </div>
+     </div>
+     <div LABEL="f. 24v." TYPE="INTERMEDIATE">
+      <div ORDER="52" TYPE="PAGE">
+       <fptr FILEID="0052"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="Lauds (ff. 25-34v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 25." TYPE="INTERMEDIATE">
+      <div ORDER="53" TYPE="PAGE">
+       <fptr FILEID="0053"/>
+      </div>
+     </div>
+     <div LABEL="f. 25v." TYPE="INTERMEDIATE">
+      <div ORDER="54" TYPE="PAGE">
+       <fptr FILEID="0054"/>
+      </div>
+     </div>
+     <div LABEL="f. 26." TYPE="INTERMEDIATE">
+      <div ORDER="55" TYPE="PAGE">
+       <fptr FILEID="0055"/>
+      </div>
+     </div>
+     <div LABEL="f. 26v." TYPE="INTERMEDIATE">
+      <div ORDER="56" TYPE="PAGE">
+       <fptr FILEID="0056"/>
+      </div>
+     </div>
+     <div LABEL="f. 27." TYPE="INTERMEDIATE">
+      <div ORDER="57" TYPE="PAGE">
+       <fptr FILEID="0057"/>
+      </div>
+     </div>
+     <div LABEL="f. 27v." TYPE="INTERMEDIATE">
+      <div ORDER="58" TYPE="PAGE">
+       <fptr FILEID="0058"/>
+      </div>
+     </div>
+     <div LABEL="f. 28." TYPE="INTERMEDIATE">
+      <div ORDER="59" TYPE="PAGE">
+       <fptr FILEID="0059"/>
+      </div>
+     </div>
+     <div LABEL="f. 28v." TYPE="INTERMEDIATE">
+      <div ORDER="60" TYPE="PAGE">
+       <fptr FILEID="0060"/>
+      </div>
+     </div>
+     <div LABEL="f. 29." TYPE="INTERMEDIATE">
+      <div ORDER="61" TYPE="PAGE">
+       <fptr FILEID="0061"/>
+      </div>
+     </div>
+     <div LABEL="f. 29v." TYPE="INTERMEDIATE">
+      <div ORDER="62" TYPE="PAGE">
+       <fptr FILEID="0062"/>
+      </div>
+     </div>
+     <div LABEL="f. 30." TYPE="INTERMEDIATE">
+      <div ORDER="63" TYPE="PAGE">
+       <fptr FILEID="0063"/>
+      </div>
+     </div>
+     <div LABEL="f. 30v." TYPE="INTERMEDIATE">
+      <div ORDER="64" TYPE="PAGE">
+       <fptr FILEID="0064"/>
+      </div>
+     </div>
+     <div LABEL="f. 31." TYPE="INTERMEDIATE">
+      <div ORDER="65" TYPE="PAGE">
+       <fptr FILEID="0065"/>
+      </div>
+     </div>
+     <div LABEL="f. 31v." TYPE="INTERMEDIATE">
+      <div ORDER="66" TYPE="PAGE">
+       <fptr FILEID="0066"/>
+      </div>
+     </div>
+     <div LABEL="f. 32." TYPE="INTERMEDIATE">
+      <div ORDER="67" TYPE="PAGE">
+       <fptr FILEID="0067"/>
+      </div>
+     </div>
+     <div LABEL="f. 32v." TYPE="INTERMEDIATE">
+      <div ORDER="68" TYPE="PAGE">
+       <fptr FILEID="0068"/>
+      </div>
+     </div>
+     <div LABEL="f. 33." TYPE="INTERMEDIATE">
+      <div ORDER="69" TYPE="PAGE">
+       <fptr FILEID="0069"/>
+      </div>
+     </div>
+     <div LABEL="f. 33v." TYPE="INTERMEDIATE">
+      <div ORDER="70" TYPE="PAGE">
+       <fptr FILEID="0070"/>
+      </div>
+     </div>
+     <div LABEL="f. 34." TYPE="INTERMEDIATE">
+      <div ORDER="71" TYPE="PAGE">
+       <fptr FILEID="0071"/>
+      </div>
+     </div>
+     <div LABEL="f. 34v." TYPE="INTERMEDIATE">
+      <div ORDER="72" TYPE="PAGE">
+       <fptr FILEID="0072"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="Prime (ff. 35-39v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 35." TYPE="INTERMEDIATE">
+      <div ORDER="73" TYPE="PAGE">
+       <fptr FILEID="0073"/>
+      </div>
+     </div>
+     <div LABEL="f. 35v." TYPE="INTERMEDIATE">
+      <div ORDER="74" TYPE="PAGE">
+       <fptr FILEID="0074"/>
+      </div>
+     </div>
+     <div LABEL="f. 36." TYPE="INTERMEDIATE">
+      <div ORDER="75" TYPE="PAGE">
+       <fptr FILEID="0075"/>
+      </div>
+     </div>
+     <div LABEL="f. 36v." TYPE="INTERMEDIATE">
+      <div ORDER="76" TYPE="PAGE">
+       <fptr FILEID="0076"/>
+      </div>
+     </div>
+     <div LABEL="f. 37." TYPE="INTERMEDIATE">
+      <div ORDER="77" TYPE="PAGE">
+       <fptr FILEID="0077"/>
+      </div>
+     </div>
+     <div LABEL="f. 37v." TYPE="INTERMEDIATE">
+      <div ORDER="78" TYPE="PAGE">
+       <fptr FILEID="0078"/>
+      </div>
+     </div>
+     <div LABEL="f. 38." TYPE="INTERMEDIATE">
+      <div ORDER="79" TYPE="PAGE">
+       <fptr FILEID="0079"/>
+      </div>
+     </div>
+     <div LABEL="f. 38v." TYPE="INTERMEDIATE">
+      <div ORDER="80" TYPE="PAGE">
+       <fptr FILEID="0080"/>
+      </div>
+     </div>
+     <div LABEL="f. 39." TYPE="INTERMEDIATE">
+      <div ORDER="81" TYPE="PAGE">
+       <fptr FILEID="0081"/>
+      </div>
+     </div>
+     <div LABEL="f. 39v." TYPE="INTERMEDIATE">
+      <div ORDER="82" TYPE="PAGE">
+       <fptr FILEID="0082"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="Terce (ff. 40-42)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 40." TYPE="INTERMEDIATE">
+      <div ORDER="83" TYPE="PAGE">
+       <fptr FILEID="0083"/>
+      </div>
+     </div>
+     <div LABEL="f. 40v." TYPE="INTERMEDIATE">
+      <div ORDER="84" TYPE="PAGE">
+       <fptr FILEID="0084"/>
+      </div>
+     </div>
+     <div LABEL="f. 41." TYPE="INTERMEDIATE">
+      <div ORDER="85" TYPE="PAGE">
+       <fptr FILEID="0085"/>
+      </div>
+     </div>
+     <div LABEL="f. 41v." TYPE="INTERMEDIATE">
+      <div ORDER="86" TYPE="PAGE">
+       <fptr FILEID="0086"/>
+      </div>
+     </div>
+     <div LABEL="f. 42." TYPE="INTERMEDIATE">
+      <div ORDER="87" TYPE="PAGE">
+       <fptr FILEID="0087"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="Sext (ff. 42v-45)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 42v." TYPE="INTERMEDIATE">
+      <div ORDER="88" TYPE="PAGE">
+       <fptr FILEID="0088"/>
+      </div>
+     </div>
+     <div LABEL="f. 43." TYPE="INTERMEDIATE">
+      <div ORDER="89" TYPE="PAGE">
+       <fptr FILEID="0089"/>
+      </div>
+     </div>
+     <div LABEL="f. 43v." TYPE="INTERMEDIATE">
+      <div ORDER="90" TYPE="PAGE">
+       <fptr FILEID="0090"/>
+      </div>
+     </div>
+     <div LABEL="f. 44." TYPE="INTERMEDIATE">
+      <div ORDER="91" TYPE="PAGE">
+       <fptr FILEID="0091"/>
+      </div>
+     </div>
+     <div LABEL="f. 44v." TYPE="INTERMEDIATE">
+      <div ORDER="92" TYPE="PAGE">
+       <fptr FILEID="0092"/>
+      </div>
+     </div>
+     <div LABEL="f. 45." TYPE="INTERMEDIATE">
+      <div ORDER="93" TYPE="PAGE">
+       <fptr FILEID="0093"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="None (ff. 45v-48v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 45v." TYPE="INTERMEDIATE">
+      <div ORDER="94" TYPE="PAGE">
+       <fptr FILEID="0094"/>
+      </div>
+     </div>
+     <div LABEL="f. 46." TYPE="INTERMEDIATE">
+      <div ORDER="95" TYPE="PAGE">
+       <fptr FILEID="0095"/>
+      </div>
+     </div>
+     <div LABEL="f. 46v." TYPE="INTERMEDIATE">
+      <div ORDER="96" TYPE="PAGE">
+       <fptr FILEID="0096"/>
+      </div>
+     </div>
+     <div LABEL="f. 47." TYPE="INTERMEDIATE">
+      <div ORDER="97" TYPE="PAGE">
+       <fptr FILEID="0097"/>
+      </div>
+     </div>
+     <div LABEL="f. 47v." TYPE="INTERMEDIATE">
+      <div ORDER="98" TYPE="PAGE">
+       <fptr FILEID="0098"/>
+      </div>
+     </div>
+     <div LABEL="f. 48." TYPE="INTERMEDIATE">
+      <div ORDER="99" TYPE="PAGE">
+       <fptr FILEID="0099"/>
+      </div>
+     </div>
+     <div LABEL="f. 48v." TYPE="INTERMEDIATE">
+      <div ORDER="100" TYPE="PAGE">
+       <fptr FILEID="0100"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="Vespers (ff. 49-55)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 49." TYPE="INTERMEDIATE">
+      <div ORDER="101" TYPE="PAGE">
+       <fptr FILEID="0101"/>
+      </div>
+     </div>
+     <div LABEL="f. 49v." TYPE="INTERMEDIATE">
+      <div ORDER="102" TYPE="PAGE">
+       <fptr FILEID="0102"/>
+      </div>
+     </div>
+     <div LABEL="f. 50." TYPE="INTERMEDIATE">
+      <div ORDER="103" TYPE="PAGE">
+       <fptr FILEID="0103"/>
+      </div>
+     </div>
+     <div LABEL="f. 50v." TYPE="INTERMEDIATE">
+      <div ORDER="104" TYPE="PAGE">
+       <fptr FILEID="0104"/>
+      </div>
+     </div>
+     <div LABEL="f. 51." TYPE="INTERMEDIATE">
+      <div ORDER="105" TYPE="PAGE">
+       <fptr FILEID="0105"/>
+      </div>
+     </div>
+     <div LABEL="f. 51v." TYPE="INTERMEDIATE">
+      <div ORDER="106" TYPE="PAGE">
+       <fptr FILEID="0106"/>
+      </div>
+     </div>
+     <div LABEL="f. 52." TYPE="INTERMEDIATE">
+      <div ORDER="107" TYPE="PAGE">
+       <fptr FILEID="0107"/>
+      </div>
+     </div>
+     <div LABEL="f. 52v." TYPE="INTERMEDIATE">
+      <div ORDER="108" TYPE="PAGE">
+       <fptr FILEID="0108"/>
+      </div>
+     </div>
+     <div LABEL="f. 53." TYPE="INTERMEDIATE">
+      <div ORDER="109" TYPE="PAGE">
+       <fptr FILEID="0109"/>
+      </div>
+     </div>
+     <div LABEL="f. 53v." TYPE="INTERMEDIATE">
+      <div ORDER="110" TYPE="PAGE">
+       <fptr FILEID="0110"/>
+      </div>
+     </div>
+     <div LABEL="f. 54." TYPE="INTERMEDIATE">
+      <div ORDER="111" TYPE="PAGE">
+       <fptr FILEID="0111"/>
+      </div>
+     </div>
+     <div LABEL="f. 54v." TYPE="INTERMEDIATE">
+      <div ORDER="112" TYPE="PAGE">
+       <fptr FILEID="0112"/>
+      </div>
+     </div>
+     <div LABEL="f. 55." TYPE="INTERMEDIATE">
+      <div ORDER="113" TYPE="PAGE">
+       <fptr FILEID="0113"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="Compline (ff. 55v-66v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 55v." TYPE="INTERMEDIATE">
+      <div ORDER="114" TYPE="PAGE">
+       <fptr FILEID="0114"/>
+      </div>
+     </div>
+     <div LABEL="f. 56." TYPE="INTERMEDIATE">
+      <div ORDER="115" TYPE="PAGE">
+       <fptr FILEID="0115"/>
+      </div>
+     </div>
+     <div LABEL="f. 56v." TYPE="INTERMEDIATE">
+      <div ORDER="116" TYPE="PAGE">
+       <fptr FILEID="0116"/>
+      </div>
+     </div>
+     <div LABEL="f. 57." TYPE="INTERMEDIATE">
+      <div ORDER="117" TYPE="PAGE">
+       <fptr FILEID="0117"/>
+      </div>
+     </div>
+     <div LABEL="f. 57v." TYPE="INTERMEDIATE">
+      <div ORDER="118" TYPE="PAGE">
+       <fptr FILEID="0118"/>
+      </div>
+     </div>
+     <div LABEL="f. 58." TYPE="INTERMEDIATE">
+      <div ORDER="119" TYPE="PAGE">
+       <fptr FILEID="0119"/>
+      </div>
+     </div>
+     <div LABEL="f. 58v." TYPE="INTERMEDIATE">
+      <div ORDER="120" TYPE="PAGE">
+       <fptr FILEID="0120"/>
+      </div>
+     </div>
+     <div LABEL="f. 59." TYPE="INTERMEDIATE">
+      <div ORDER="121" TYPE="PAGE">
+       <fptr FILEID="0121"/>
+      </div>
+     </div>
+     <div LABEL="f. 59v." TYPE="INTERMEDIATE">
+      <div ORDER="122" TYPE="PAGE">
+       <fptr FILEID="0122"/>
+      </div>
+     </div>
+     <div LABEL="f. 60." TYPE="INTERMEDIATE">
+      <div ORDER="123" TYPE="PAGE">
+       <fptr FILEID="0123"/>
+      </div>
+     </div>
+     <div LABEL="f. 60v." TYPE="INTERMEDIATE">
+      <div ORDER="124" TYPE="PAGE">
+       <fptr FILEID="0124"/>
+      </div>
+     </div>
+     <div LABEL="f. 61." TYPE="INTERMEDIATE">
+      <div ORDER="125" TYPE="PAGE">
+       <fptr FILEID="0125"/>
+      </div>
+     </div>
+     <div LABEL="f. 61v." TYPE="INTERMEDIATE">
+      <div ORDER="126" TYPE="PAGE">
+       <fptr FILEID="0126"/>
+      </div>
+     </div>
+     <div LABEL="f. 62." TYPE="INTERMEDIATE">
+      <div ORDER="127" TYPE="PAGE">
+       <fptr FILEID="0127"/>
+      </div>
+     </div>
+     <div LABEL="f. 62v." TYPE="INTERMEDIATE">
+      <div ORDER="128" TYPE="PAGE">
+       <fptr FILEID="0128"/>
+      </div>
+     </div>
+     <div LABEL="f. 63." TYPE="INTERMEDIATE">
+      <div ORDER="129" TYPE="PAGE">
+       <fptr FILEID="0129"/>
+      </div>
+     </div>
+     <div LABEL="f. 63v." TYPE="INTERMEDIATE">
+      <div ORDER="130" TYPE="PAGE">
+       <fptr FILEID="0130"/>
+      </div>
+     </div>
+     <div LABEL="f. 64." TYPE="INTERMEDIATE">
+      <div ORDER="131" TYPE="PAGE">
+       <fptr FILEID="0131"/>
+      </div>
+     </div>
+     <div LABEL="f. 64v." TYPE="INTERMEDIATE">
+      <div ORDER="132" TYPE="PAGE">
+       <fptr FILEID="0132"/>
+      </div>
+     </div>
+     <div LABEL="f. 65." TYPE="INTERMEDIATE">
+      <div ORDER="133" TYPE="PAGE">
+       <fptr FILEID="0133"/>
+      </div>
+     </div>
+     <div LABEL="f. 65v." TYPE="INTERMEDIATE">
+      <div ORDER="134" TYPE="PAGE">
+       <fptr FILEID="0134"/>
+      </div>
+     </div>
+     <div LABEL="f. 66." TYPE="INTERMEDIATE">
+      <div ORDER="135" TYPE="PAGE">
+       <fptr FILEID="0135"/>
+      </div>
+     </div>
+     <div LABEL="f. 66v." TYPE="INTERMEDIATE">
+      <div ORDER="136" TYPE="PAGE">
+       <fptr FILEID="0136"/>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div LABEL="Prayer (ff. 67-67v)" TYPE="INTERMEDIATE">
+    <div LABEL="f. 67." TYPE="INTERMEDIATE">
+     <div ORDER="137" TYPE="PAGE">
+      <fptr FILEID="0137"/>
+     </div>
+    </div>
+    <div LABEL="f. 67v." TYPE="INTERMEDIATE">
+     <div ORDER="138" TYPE="PAGE">
+      <fptr FILEID="0138"/>
+     </div>
+    </div>
+   </div>
+   <div LABEL="Litany of the Virgin (ff. 68-72)" TYPE="INTERMEDIATE">
+    <div LABEL="f. 68: The Virgin with a book" TYPE="INTERMEDIATE">
+     <div ORDER="139" TYPE="PAGE">
+      <fptr FILEID="0139"/>
+     </div>
+    </div>
+    <div LABEL="f. 68v." TYPE="INTERMEDIATE">
+     <div ORDER="140" TYPE="PAGE">
+      <fptr FILEID="0140"/>
+     </div>
+    </div>
+    <div LABEL="f. 69." TYPE="INTERMEDIATE">
+     <div ORDER="141" TYPE="PAGE">
+      <fptr FILEID="0141"/>
+     </div>
+    </div>
+    <div LABEL="f. 69v." TYPE="INTERMEDIATE">
+     <div ORDER="142" TYPE="PAGE">
+      <fptr FILEID="0142"/>
+     </div>
+    </div>
+    <div LABEL="f. 70." TYPE="INTERMEDIATE">
+     <div ORDER="143" TYPE="PAGE">
+      <fptr FILEID="0143"/>
+     </div>
+    </div>
+    <div LABEL="f. 70v." TYPE="INTERMEDIATE">
+     <div ORDER="144" TYPE="PAGE">
+      <fptr FILEID="0144"/>
+     </div>
+    </div>
+    <div LABEL="f. 71." TYPE="INTERMEDIATE">
+     <div ORDER="145" TYPE="PAGE">
+      <fptr FILEID="0145"/>
+     </div>
+    </div>
+    <div LABEL="f. 71v." TYPE="INTERMEDIATE">
+     <div ORDER="146" TYPE="PAGE">
+      <fptr FILEID="0146"/>
+     </div>
+    </div>
+    <div LABEL="f. 72: Blank" TYPE="INTERMEDIATE">
+     <div ORDER="147" TYPE="PAGE">
+      <fptr FILEID="0147"/>
+     </div>
+    </div>
+   </div>
+   <div LABEL="Penitential Psalms (ff. 72v-83v)" TYPE="INTERMEDIATE">
+    <div LABEL="f. 72v: King David praying" TYPE="INTERMEDIATE">
+     <div ORDER="148" TYPE="PAGE">
+      <fptr FILEID="0148"/>
+     </div>
+    </div>
+    <div LABEL="f. 73." TYPE="INTERMEDIATE">
+     <div ORDER="149" TYPE="PAGE">
+      <fptr FILEID="0149"/>
+     </div>
+    </div>
+    <div LABEL="f. 73v." TYPE="INTERMEDIATE">
+     <div ORDER="150" TYPE="PAGE">
+      <fptr FILEID="0150"/>
+     </div>
+    </div>
+    <div LABEL="f. 74." TYPE="INTERMEDIATE">
+     <div ORDER="151" TYPE="PAGE">
+      <fptr FILEID="0151"/>
+     </div>
+    </div>
+    <div LABEL="f. 74v." TYPE="INTERMEDIATE">
+     <div ORDER="152" TYPE="PAGE">
+      <fptr FILEID="0152"/>
+     </div>
+    </div>
+    <div LABEL="f. 75." TYPE="INTERMEDIATE">
+     <div ORDER="153" TYPE="PAGE">
+      <fptr FILEID="0153"/>
+     </div>
+    </div>
+    <div LABEL="f. 75v." TYPE="INTERMEDIATE">
+     <div ORDER="154" TYPE="PAGE">
+      <fptr FILEID="0154"/>
+     </div>
+    </div>
+    <div LABEL="f. 76." TYPE="INTERMEDIATE">
+     <div ORDER="155" TYPE="PAGE">
+      <fptr FILEID="0155"/>
+     </div>
+    </div>
+    <div LABEL="f. 76v." TYPE="INTERMEDIATE">
+     <div ORDER="156" TYPE="PAGE">
+      <fptr FILEID="0156"/>
+     </div>
+    </div>
+    <div LABEL="f. 77." TYPE="INTERMEDIATE">
+     <div ORDER="157" TYPE="PAGE">
+      <fptr FILEID="0157"/>
+     </div>
+    </div>
+    <div LABEL="f. 77v." TYPE="INTERMEDIATE">
+     <div ORDER="158" TYPE="PAGE">
+      <fptr FILEID="0158"/>
+     </div>
+    </div>
+    <div LABEL="f. 78." TYPE="INTERMEDIATE">
+     <div ORDER="159" TYPE="PAGE">
+      <fptr FILEID="0159"/>
+     </div>
+    </div>
+    <div LABEL="f. 78v." TYPE="INTERMEDIATE">
+     <div ORDER="160" TYPE="PAGE">
+      <fptr FILEID="0160"/>
+     </div>
+    </div>
+    <div LABEL="f. 79." TYPE="INTERMEDIATE">
+     <div ORDER="161" TYPE="PAGE">
+      <fptr FILEID="0161"/>
+     </div>
+    </div>
+    <div LABEL="f. 79v." TYPE="INTERMEDIATE">
+     <div ORDER="162" TYPE="PAGE">
+      <fptr FILEID="0162"/>
+     </div>
+    </div>
+    <div LABEL="f. 80." TYPE="INTERMEDIATE">
+     <div ORDER="163" TYPE="PAGE">
+      <fptr FILEID="0163"/>
+     </div>
+    </div>
+    <div LABEL="f. 80v." TYPE="INTERMEDIATE">
+     <div ORDER="164" TYPE="PAGE">
+      <fptr FILEID="0164"/>
+     </div>
+    </div>
+    <div LABEL="f. 81." TYPE="INTERMEDIATE">
+     <div ORDER="165" TYPE="PAGE">
+      <fptr FILEID="0165"/>
+     </div>
+    </div>
+    <div LABEL="f. 81v." TYPE="INTERMEDIATE">
+     <div ORDER="166" TYPE="PAGE">
+      <fptr FILEID="0166"/>
+     </div>
+    </div>
+    <div LABEL="f. 82." TYPE="INTERMEDIATE">
+     <div ORDER="167" TYPE="PAGE">
+      <fptr FILEID="0167"/>
+     </div>
+    </div>
+    <div LABEL="f. 82v." TYPE="INTERMEDIATE">
+     <div ORDER="168" TYPE="PAGE">
+      <fptr FILEID="0168"/>
+     </div>
+    </div>
+    <div LABEL="f. 83." TYPE="INTERMEDIATE">
+     <div ORDER="169" TYPE="PAGE">
+      <fptr FILEID="0169"/>
+     </div>
+    </div>
+    <div LABEL="f. 83v." TYPE="INTERMEDIATE">
+     <div ORDER="170" TYPE="PAGE">
+      <fptr FILEID="0170"/>
+     </div>
+    </div>
+   </div>
+   <div LABEL="Litany (ff. 84-94)" TYPE="INTERMEDIATE">
+    <div LABEL="f. 84." TYPE="INTERMEDIATE">
+     <div ORDER="171" TYPE="PAGE">
+      <fptr FILEID="0171"/>
+     </div>
+    </div>
+    <div LABEL="f. 84v." TYPE="INTERMEDIATE">
+     <div ORDER="172" TYPE="PAGE">
+      <fptr FILEID="0172"/>
+     </div>
+    </div>
+    <div LABEL="f. 85." TYPE="INTERMEDIATE">
+     <div ORDER="173" TYPE="PAGE">
+      <fptr FILEID="0173"/>
+     </div>
+    </div>
+    <div LABEL="f. 85v." TYPE="INTERMEDIATE">
+     <div ORDER="174" TYPE="PAGE">
+      <fptr FILEID="0174"/>
+     </div>
+    </div>
+    <div LABEL="f. 86." TYPE="INTERMEDIATE">
+     <div ORDER="175" TYPE="PAGE">
+      <fptr FILEID="0175"/>
+     </div>
+    </div>
+    <div LABEL="f. 86v." TYPE="INTERMEDIATE">
+     <div ORDER="176" TYPE="PAGE">
+      <fptr FILEID="0176"/>
+     </div>
+    </div>
+    <div LABEL="f. 87." TYPE="INTERMEDIATE">
+     <div ORDER="177" TYPE="PAGE">
+      <fptr FILEID="0177"/>
+     </div>
+    </div>
+    <div LABEL="f. 87v." TYPE="INTERMEDIATE">
+     <div ORDER="178" TYPE="PAGE">
+      <fptr FILEID="0178"/>
+     </div>
+    </div>
+    <div LABEL="f. 88." TYPE="INTERMEDIATE">
+     <div ORDER="179" TYPE="PAGE">
+      <fptr FILEID="0179"/>
+     </div>
+    </div>
+    <div LABEL="f. 88v." TYPE="INTERMEDIATE">
+     <div ORDER="180" TYPE="PAGE">
+      <fptr FILEID="0180"/>
+     </div>
+    </div>
+    <div LABEL="f. 89." TYPE="INTERMEDIATE">
+     <div ORDER="181" TYPE="PAGE">
+      <fptr FILEID="0181"/>
+     </div>
+    </div>
+    <div LABEL="f. 89v." TYPE="INTERMEDIATE">
+     <div ORDER="182" TYPE="PAGE">
+      <fptr FILEID="0182"/>
+     </div>
+    </div>
+    <div LABEL="f. 90." TYPE="INTERMEDIATE">
+     <div ORDER="183" TYPE="PAGE">
+      <fptr FILEID="0183"/>
+     </div>
+    </div>
+    <div LABEL="f. 90v." TYPE="INTERMEDIATE">
+     <div ORDER="184" TYPE="PAGE">
+      <fptr FILEID="0184"/>
+     </div>
+    </div>
+    <div LABEL="f. 91." TYPE="INTERMEDIATE">
+     <div ORDER="185" TYPE="PAGE">
+      <fptr FILEID="0185"/>
+     </div>
+    </div>
+    <div LABEL="f. 91v." TYPE="INTERMEDIATE">
+     <div ORDER="186" TYPE="PAGE">
+      <fptr FILEID="0186"/>
+     </div>
+    </div>
+    <div LABEL="f. 92." TYPE="INTERMEDIATE">
+     <div ORDER="187" TYPE="PAGE">
+      <fptr FILEID="0187"/>
+     </div>
+    </div>
+    <div LABEL="f. 92v." TYPE="INTERMEDIATE">
+     <div ORDER="188" TYPE="PAGE">
+      <fptr FILEID="0188"/>
+     </div>
+    </div>
+    <div LABEL="f. 93." TYPE="INTERMEDIATE">
+     <div ORDER="189" TYPE="PAGE">
+      <fptr FILEID="0189"/>
+     </div>
+    </div>
+    <div LABEL="f. 93v: Blank" TYPE="INTERMEDIATE">
+     <div ORDER="190" TYPE="PAGE">
+      <fptr FILEID="0190"/>
+     </div>
+    </div>
+    <div LABEL="f. 94: Blank" TYPE="INTERMEDIATE">
+     <div ORDER="191" TYPE="PAGE">
+      <fptr FILEID="0191"/>
+     </div>
+    </div>
+   </div>
+   <div LABEL="Office of the Dead (ff. 94v-136)" TYPE="INTERMEDIATE">
+    <div LABEL="Vespers (ff. 94v-101)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 94v: Lamentation" TYPE="INTERMEDIATE">
+      <div ORDER="192" TYPE="PAGE">
+       <fptr FILEID="0192"/>
+      </div>
+     </div>
+     <div LABEL="f. 95." TYPE="INTERMEDIATE">
+      <div ORDER="193" TYPE="PAGE">
+       <fptr FILEID="0193"/>
+      </div>
+     </div>
+     <div LABEL="f. 95v." TYPE="INTERMEDIATE">
+      <div ORDER="194" TYPE="PAGE">
+       <fptr FILEID="0194"/>
+      </div>
+     </div>
+     <div LABEL="f. 96." TYPE="INTERMEDIATE">
+      <div ORDER="195" TYPE="PAGE">
+       <fptr FILEID="0195"/>
+      </div>
+     </div>
+     <div LABEL="f. 96v." TYPE="INTERMEDIATE">
+      <div ORDER="196" TYPE="PAGE">
+       <fptr FILEID="0196"/>
+      </div>
+     </div>
+     <div LABEL="f. 97." TYPE="INTERMEDIATE">
+      <div ORDER="197" TYPE="PAGE">
+       <fptr FILEID="0197"/>
+      </div>
+     </div>
+     <div LABEL="f. 97v." TYPE="INTERMEDIATE">
+      <div ORDER="198" TYPE="PAGE">
+       <fptr FILEID="0198"/>
+      </div>
+     </div>
+     <div LABEL="f. 98." TYPE="INTERMEDIATE">
+      <div ORDER="199" TYPE="PAGE">
+       <fptr FILEID="0199"/>
+      </div>
+     </div>
+     <div LABEL="f. 98v." TYPE="INTERMEDIATE">
+      <div ORDER="200" TYPE="PAGE">
+       <fptr FILEID="0200"/>
+      </div>
+     </div>
+     <div LABEL="f. 99." TYPE="INTERMEDIATE">
+      <div ORDER="201" TYPE="PAGE">
+       <fptr FILEID="0201"/>
+      </div>
+     </div>
+     <div LABEL="f. 99v." TYPE="INTERMEDIATE">
+      <div ORDER="202" TYPE="PAGE">
+       <fptr FILEID="0202"/>
+      </div>
+     </div>
+     <div LABEL="f. 100." TYPE="INTERMEDIATE">
+      <div ORDER="203" TYPE="PAGE">
+       <fptr FILEID="0203"/>
+      </div>
+     </div>
+     <div LABEL="f. 100v." TYPE="INTERMEDIATE">
+      <div ORDER="204" TYPE="PAGE">
+       <fptr FILEID="0204"/>
+      </div>
+     </div>
+     <div LABEL="f. 101." TYPE="INTERMEDIATE">
+      <div ORDER="205" TYPE="PAGE">
+       <fptr FILEID="0205"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="Matins (ff. 101v-125v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 101v." TYPE="INTERMEDIATE">
+      <div ORDER="206" TYPE="PAGE">
+       <fptr FILEID="0206"/>
+      </div>
+     </div>
+     <div LABEL="f. 102." TYPE="INTERMEDIATE">
+      <div ORDER="207" TYPE="PAGE">
+       <fptr FILEID="0207"/>
+      </div>
+     </div>
+     <div LABEL="f. 102v." TYPE="INTERMEDIATE">
+      <div ORDER="208" TYPE="PAGE">
+       <fptr FILEID="0208"/>
+      </div>
+     </div>
+     <div LABEL="First Nocturne (ff. 103-110)" TYPE="INTERMEDIATE">
+      <div LABEL="f. 103." TYPE="INTERMEDIATE">
+       <div ORDER="209" TYPE="PAGE">
+        <fptr FILEID="0209"/>
+       </div>
+      </div>
+      <div LABEL="f. 103v." TYPE="INTERMEDIATE">
+       <div ORDER="210" TYPE="PAGE">
+        <fptr FILEID="0210"/>
+       </div>
+      </div>
+      <div LABEL="f. 104." TYPE="INTERMEDIATE">
+       <div ORDER="211" TYPE="PAGE">
+        <fptr FILEID="0211"/>
+       </div>
+      </div>
+      <div LABEL="f. 104v." TYPE="INTERMEDIATE">
+       <div ORDER="212" TYPE="PAGE">
+        <fptr FILEID="0212"/>
+       </div>
+      </div>
+      <div LABEL="f. 105." TYPE="INTERMEDIATE">
+       <div ORDER="213" TYPE="PAGE">
+        <fptr FILEID="0213"/>
+       </div>
+      </div>
+      <div LABEL="f. 105v." TYPE="INTERMEDIATE">
+       <div ORDER="214" TYPE="PAGE">
+        <fptr FILEID="0214"/>
+       </div>
+      </div>
+      <div LABEL="f. 106." TYPE="INTERMEDIATE">
+       <div ORDER="215" TYPE="PAGE">
+        <fptr FILEID="0215"/>
+       </div>
+      </div>
+      <div LABEL="f. 106v." TYPE="INTERMEDIATE">
+       <div ORDER="216" TYPE="PAGE">
+        <fptr FILEID="0216"/>
+       </div>
+      </div>
+      <div LABEL="f. 107." TYPE="INTERMEDIATE">
+       <div ORDER="217" TYPE="PAGE">
+        <fptr FILEID="0217"/>
+       </div>
+      </div>
+      <div LABEL="f. 107v." TYPE="INTERMEDIATE">
+       <div ORDER="218" TYPE="PAGE">
+        <fptr FILEID="0218"/>
+       </div>
+      </div>
+      <div LABEL="f. 108." TYPE="INTERMEDIATE">
+       <div ORDER="219" TYPE="PAGE">
+        <fptr FILEID="0219"/>
+       </div>
+      </div>
+      <div LABEL="f. 108v." TYPE="INTERMEDIATE">
+       <div ORDER="220" TYPE="PAGE">
+        <fptr FILEID="0220"/>
+       </div>
+      </div>
+      <div LABEL="f. 109." TYPE="INTERMEDIATE">
+       <div ORDER="221" TYPE="PAGE">
+        <fptr FILEID="0221"/>
+       </div>
+      </div>
+      <div LABEL="f. 109v." TYPE="INTERMEDIATE">
+       <div ORDER="222" TYPE="PAGE">
+        <fptr FILEID="0222"/>
+       </div>
+      </div>
+      <div LABEL="f. 110." TYPE="INTERMEDIATE">
+       <div ORDER="223" TYPE="PAGE">
+        <fptr FILEID="0223"/>
+       </div>
+      </div>
+     </div>
+     <div LABEL="Second Nocturne (ff. 110v-117)" TYPE="INTERMEDIATE">
+      <div LABEL="f. 110v." TYPE="INTERMEDIATE">
+       <div ORDER="224" TYPE="PAGE">
+        <fptr FILEID="0224"/>
+       </div>
+      </div>
+      <div LABEL="f. 111." TYPE="INTERMEDIATE">
+       <div ORDER="225" TYPE="PAGE">
+        <fptr FILEID="0225"/>
+       </div>
+      </div>
+      <div LABEL="f. 111v." TYPE="INTERMEDIATE">
+       <div ORDER="226" TYPE="PAGE">
+        <fptr FILEID="0226"/>
+       </div>
+      </div>
+      <div LABEL="f. 112." TYPE="INTERMEDIATE">
+       <div ORDER="227" TYPE="PAGE">
+        <fptr FILEID="0227"/>
+       </div>
+      </div>
+      <div LABEL="f. 112v." TYPE="INTERMEDIATE">
+       <div ORDER="228" TYPE="PAGE">
+        <fptr FILEID="0228"/>
+       </div>
+      </div>
+      <div LABEL="f. 113." TYPE="INTERMEDIATE">
+       <div ORDER="229" TYPE="PAGE">
+        <fptr FILEID="0229"/>
+       </div>
+      </div>
+      <div LABEL="f. 113v." TYPE="INTERMEDIATE">
+       <div ORDER="230" TYPE="PAGE">
+        <fptr FILEID="0230"/>
+       </div>
+      </div>
+      <div LABEL="f. 114." TYPE="INTERMEDIATE">
+       <div ORDER="231" TYPE="PAGE">
+        <fptr FILEID="0231"/>
+       </div>
+      </div>
+      <div LABEL="f. 114v." TYPE="INTERMEDIATE">
+       <div ORDER="232" TYPE="PAGE">
+        <fptr FILEID="0232"/>
+       </div>
+      </div>
+      <div LABEL="f. 115." TYPE="INTERMEDIATE">
+       <div ORDER="233" TYPE="PAGE">
+        <fptr FILEID="0233"/>
+       </div>
+      </div>
+      <div LABEL="f. 115v." TYPE="INTERMEDIATE">
+       <div ORDER="234" TYPE="PAGE">
+        <fptr FILEID="0234"/>
+       </div>
+      </div>
+      <div LABEL="f. 116." TYPE="INTERMEDIATE">
+       <div ORDER="235" TYPE="PAGE">
+        <fptr FILEID="0235"/>
+       </div>
+      </div>
+      <div LABEL="f. 116v." TYPE="INTERMEDIATE">
+       <div ORDER="236" TYPE="PAGE">
+        <fptr FILEID="0236"/>
+       </div>
+      </div>
+      <div LABEL="f. 117." TYPE="INTERMEDIATE">
+       <div ORDER="237" TYPE="PAGE">
+        <fptr FILEID="0237"/>
+       </div>
+      </div>
+     </div>
+     <div LABEL="Third Nocturne (ff. 117v-125v)" TYPE="INTERMEDIATE">
+      <div LABEL="f. 117v." TYPE="INTERMEDIATE">
+       <div ORDER="238" TYPE="PAGE">
+        <fptr FILEID="0238"/>
+       </div>
+      </div>
+      <div LABEL="f. 118." TYPE="INTERMEDIATE">
+       <div ORDER="239" TYPE="PAGE">
+        <fptr FILEID="0239"/>
+       </div>
+      </div>
+      <div LABEL="f. 118v." TYPE="INTERMEDIATE">
+       <div ORDER="240" TYPE="PAGE">
+        <fptr FILEID="0240"/>
+       </div>
+      </div>
+      <div LABEL="f. 119." TYPE="INTERMEDIATE">
+       <div ORDER="241" TYPE="PAGE">
+        <fptr FILEID="0241"/>
+       </div>
+      </div>
+      <div LABEL="f. 119v." TYPE="INTERMEDIATE">
+       <div ORDER="242" TYPE="PAGE">
+        <fptr FILEID="0242"/>
+       </div>
+      </div>
+      <div LABEL="f. 120." TYPE="INTERMEDIATE">
+       <div ORDER="243" TYPE="PAGE">
+        <fptr FILEID="0243"/>
+       </div>
+      </div>
+      <div LABEL="f. 120v." TYPE="INTERMEDIATE">
+       <div ORDER="244" TYPE="PAGE">
+        <fptr FILEID="0244"/>
+       </div>
+      </div>
+      <div LABEL="f. 121." TYPE="INTERMEDIATE">
+       <div ORDER="245" TYPE="PAGE">
+        <fptr FILEID="0245"/>
+       </div>
+      </div>
+      <div LABEL="f. 121v." TYPE="INTERMEDIATE">
+       <div ORDER="246" TYPE="PAGE">
+        <fptr FILEID="0246"/>
+       </div>
+      </div>
+      <div LABEL="f. 122." TYPE="INTERMEDIATE">
+       <div ORDER="247" TYPE="PAGE">
+        <fptr FILEID="0247"/>
+       </div>
+      </div>
+      <div LABEL="f. 122v." TYPE="INTERMEDIATE">
+       <div ORDER="248" TYPE="PAGE">
+        <fptr FILEID="0248"/>
+       </div>
+      </div>
+      <div LABEL="f. 123." TYPE="INTERMEDIATE">
+       <div ORDER="249" TYPE="PAGE">
+        <fptr FILEID="0249"/>
+       </div>
+      </div>
+      <div LABEL="f. 123v." TYPE="INTERMEDIATE">
+       <div ORDER="250" TYPE="PAGE">
+        <fptr FILEID="0250"/>
+       </div>
+      </div>
+      <div LABEL="f. 124." TYPE="INTERMEDIATE">
+       <div ORDER="251" TYPE="PAGE">
+        <fptr FILEID="0251"/>
+       </div>
+      </div>
+      <div LABEL="f. 124v." TYPE="INTERMEDIATE">
+       <div ORDER="252" TYPE="PAGE">
+        <fptr FILEID="0252"/>
+       </div>
+      </div>
+      <div LABEL="f. 125." TYPE="INTERMEDIATE">
+       <div ORDER="253" TYPE="PAGE">
+        <fptr FILEID="0253"/>
+       </div>
+      </div>
+      <div LABEL="f. 125v." TYPE="INTERMEDIATE">
+       <div ORDER="254" TYPE="PAGE">
+        <fptr FILEID="0254"/>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div LABEL="Lauds (ff. 126-136)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 126." TYPE="INTERMEDIATE">
+      <div ORDER="255" TYPE="PAGE">
+       <fptr FILEID="0255"/>
+      </div>
+     </div>
+     <div LABEL="f. 126v." TYPE="INTERMEDIATE">
+      <div ORDER="256" TYPE="PAGE">
+       <fptr FILEID="0256"/>
+      </div>
+     </div>
+     <div LABEL="f. 127." TYPE="INTERMEDIATE">
+      <div ORDER="257" TYPE="PAGE">
+       <fptr FILEID="0257"/>
+      </div>
+     </div>
+     <div LABEL="f. 127v." TYPE="INTERMEDIATE">
+      <div ORDER="258" TYPE="PAGE">
+       <fptr FILEID="0258"/>
+      </div>
+     </div>
+     <div LABEL="f. 128." TYPE="INTERMEDIATE">
+      <div ORDER="259" TYPE="PAGE">
+       <fptr FILEID="0259"/>
+      </div>
+     </div>
+     <div LABEL="f. 128v." TYPE="INTERMEDIATE">
+      <div ORDER="260" TYPE="PAGE">
+       <fptr FILEID="0260"/>
+      </div>
+     </div>
+     <div LABEL="f. 129." TYPE="INTERMEDIATE">
+      <div ORDER="261" TYPE="PAGE">
+       <fptr FILEID="0261"/>
+      </div>
+     </div>
+     <div LABEL="f. 129v." TYPE="INTERMEDIATE">
+      <div ORDER="262" TYPE="PAGE">
+       <fptr FILEID="0262"/>
+      </div>
+     </div>
+     <div LABEL="f. 130." TYPE="INTERMEDIATE">
+      <div ORDER="263" TYPE="PAGE">
+       <fptr FILEID="0263"/>
+      </div>
+     </div>
+     <div LABEL="f. 130v." TYPE="INTERMEDIATE">
+      <div ORDER="264" TYPE="PAGE">
+       <fptr FILEID="0264"/>
+      </div>
+     </div>
+     <div LABEL="f. 131." TYPE="INTERMEDIATE">
+      <div ORDER="265" TYPE="PAGE">
+       <fptr FILEID="0265"/>
+      </div>
+     </div>
+     <div LABEL="f. 131v." TYPE="INTERMEDIATE">
+      <div ORDER="266" TYPE="PAGE">
+       <fptr FILEID="0266"/>
+      </div>
+     </div>
+     <div LABEL="f. 132." TYPE="INTERMEDIATE">
+      <div ORDER="267" TYPE="PAGE">
+       <fptr FILEID="0267"/>
+      </div>
+     </div>
+     <div LABEL="f. 132v." TYPE="INTERMEDIATE">
+      <div ORDER="268" TYPE="PAGE">
+       <fptr FILEID="0268"/>
+      </div>
+     </div>
+     <div LABEL="f. 133." TYPE="INTERMEDIATE">
+      <div ORDER="269" TYPE="PAGE">
+       <fptr FILEID="0269"/>
+      </div>
+     </div>
+     <div LABEL="f. 133v." TYPE="INTERMEDIATE">
+      <div ORDER="270" TYPE="PAGE">
+       <fptr FILEID="0270"/>
+      </div>
+     </div>
+     <div LABEL="f. 134." TYPE="INTERMEDIATE">
+      <div ORDER="271" TYPE="PAGE">
+       <fptr FILEID="0271"/>
+      </div>
+     </div>
+     <div LABEL="f. 134v." TYPE="INTERMEDIATE">
+      <div ORDER="272" TYPE="PAGE">
+       <fptr FILEID="0272"/>
+      </div>
+     </div>
+     <div LABEL="f. 135." TYPE="INTERMEDIATE">
+      <div ORDER="273" TYPE="PAGE">
+       <fptr FILEID="0273"/>
+      </div>
+     </div>
+     <div LABEL="f. 135v.: Blank" TYPE="INTERMEDIATE">
+      <div ORDER="274" TYPE="PAGE">
+       <fptr FILEID="0274"/>
+      </div>
+     </div>
+     <div LABEL="f. 136: Blank" TYPE="INTERMEDIATE">
+      <div ORDER="275" TYPE="PAGE">
+       <fptr FILEID="0275"/>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div LABEL="Hours of the Cross (ff. 136v-141)" TYPE="INTERMEDIATE">
+    <div LABEL="Matins (ff. 136v-137v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 136v: Crucifixion" TYPE="INTERMEDIATE">
+      <div ORDER="276" TYPE="PAGE">
+       <fptr FILEID="0276"/>
+      </div>
+     </div>
+     <div LABEL="f. 137." TYPE="INTERMEDIATE">
+      <div ORDER="277" TYPE="PAGE">
+       <fptr FILEID="0277"/>
+      </div>
+     </div>
+     <div LABEL="f. 137v." TYPE="INTERMEDIATE">
+      <div ORDER="278" TYPE="PAGE">
+       <fptr FILEID="0278"/>
+      </div>
+     </div>
+    </div>
+    <div LABEL="f. 138: Prime" TYPE="INTERMEDIATE">
+     <div ORDER="279" TYPE="PAGE">
+      <fptr FILEID="0279"/>
+     </div>
+    </div>
+    <div LABEL="f. 138v: Terce" TYPE="INTERMEDIATE">
+     <div ORDER="280" TYPE="PAGE">
+      <fptr FILEID="0280"/>
+     </div>
+    </div>
+    <div LABEL="f. 139: Sext and None" TYPE="INTERMEDIATE">
+     <div ORDER="281" TYPE="PAGE">
+      <fptr FILEID="0281"/>
+     </div>
+    </div>
+    <div LABEL="f. 139v: Vespers" TYPE="INTERMEDIATE">
+     <div ORDER="282" TYPE="PAGE">
+      <fptr FILEID="0282"/>
+     </div>
+    </div>
+    <div LABEL="Compline (ff. 140-141)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 140." TYPE="INTERMEDIATE">
+      <div ORDER="283" TYPE="PAGE">
+       <fptr FILEID="0283"/>
+      </div>
+     </div>
+     <div LABEL="f. 140v." TYPE="INTERMEDIATE">
+      <div ORDER="284" TYPE="PAGE">
+       <fptr FILEID="0284"/>
+      </div>
+     </div>
+     <div LABEL="f. 141: Blank" TYPE="INTERMEDIATE">
+      <div ORDER="285" TYPE="PAGE">
+       <fptr FILEID="0285"/>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div LABEL="Hours of the Holy Spirit (ff. 141v-146v)" TYPE="INTERMEDIATE">
+    <div LABEL="f. 141v: Pentecost" TYPE="INTERMEDIATE">
+     <div ORDER="286" TYPE="PAGE">
+      <fptr FILEID="0286"/>
+     </div>
+    </div>
+    <div LABEL="f. 142: Matins" TYPE="INTERMEDIATE">
+     <div ORDER="287" TYPE="PAGE">
+      <fptr FILEID="0287"/>
+     </div>
+    </div>
+    <div LABEL="f. 142v: Prime" TYPE="INTERMEDIATE">
+     <div ORDER="288" TYPE="PAGE">
+      <fptr FILEID="0288"/>
+     </div>
+    </div>
+    <div LABEL="f. 143: Terce" TYPE="INTERMEDIATE">
+     <div ORDER="289" TYPE="PAGE">
+      <fptr FILEID="0289"/>
+     </div>
+    </div>
+    <div LABEL="f. 143v: Sext, None (f.144 missing)" TYPE="INTERMEDIATE">
+     <div ORDER="290" TYPE="PAGE">
+      <fptr FILEID="0290"/>
+     </div>
+    </div>
+    <div LABEL="f. 145: Vespers" TYPE="INTERMEDIATE">
+     <div ORDER="291" TYPE="PAGE">
+      <fptr FILEID="0291"/>
+     </div>
+    </div>
+    <div LABEL="Compline (ff. 145v-146v)" TYPE="INTERMEDIATE">
+     <div LABEL="f. 145v." TYPE="INTERMEDIATE">
+      <div ORDER="292" TYPE="PAGE">
+       <fptr FILEID="0292"/>
+      </div>
+     </div>
+     <div LABEL="f. 146." TYPE="INTERMEDIATE">
+      <div ORDER="293" TYPE="PAGE">
+       <fptr FILEID="0293"/>
+      </div>
+     </div>
+     <div LABEL="f. 146v. (ff. 147-152 missing)" TYPE="INTERMEDIATE">
+      <div ORDER="294" TYPE="PAGE">
+       <fptr FILEID="0294"/>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div LABEL="Prayers (ff. 153-171v)" TYPE="INTERMEDIATE">
+    <div LABEL="f. 153." TYPE="INTERMEDIATE">
+     <div ORDER="295" TYPE="PAGE">
+      <fptr FILEID="0295"/>
+     </div>
+    </div>
+    <div LABEL="f. 153v." TYPE="INTERMEDIATE">
+     <div ORDER="296" TYPE="PAGE">
+      <fptr FILEID="0296"/>
+     </div>
+    </div>
+    <div LABEL="f. 154." TYPE="INTERMEDIATE">
+     <div ORDER="297" TYPE="PAGE">
+      <fptr FILEID="0297"/>
+     </div>
+    </div>
+    <div LABEL="f. 154v." TYPE="INTERMEDIATE">
+     <div ORDER="298" TYPE="PAGE">
+      <fptr FILEID="0298"/>
+     </div>
+    </div>
+    <div LABEL="f. 155." TYPE="INTERMEDIATE">
+     <div ORDER="299" TYPE="PAGE">
+      <fptr FILEID="0299"/>
+     </div>
+    </div>
+    <div LABEL="f. 155v." TYPE="INTERMEDIATE">
+     <div ORDER="300" TYPE="PAGE">
+      <fptr FILEID="0300"/>
+     </div>
+    </div>
+    <div LABEL="f. 156." TYPE="INTERMEDIATE">
+     <div ORDER="301" TYPE="PAGE">
+      <fptr FILEID="0301"/>
+     </div>
+    </div>
+    <div LABEL="f. 156v." TYPE="INTERMEDIATE">
+     <div ORDER="302" TYPE="PAGE">
+      <fptr FILEID="0302"/>
+     </div>
+    </div>
+    <div LABEL="f. 157." TYPE="INTERMEDIATE">
+     <div ORDER="303" TYPE="PAGE">
+      <fptr FILEID="0303"/>
+     </div>
+    </div>
+    <div LABEL="f. 157v." TYPE="INTERMEDIATE">
+     <div ORDER="304" TYPE="PAGE">
+      <fptr FILEID="0304"/>
+     </div>
+    </div>
+    <div LABEL="f. 158." TYPE="INTERMEDIATE">
+     <div ORDER="305" TYPE="PAGE">
+      <fptr FILEID="0305"/>
+     </div>
+    </div>
+    <div LABEL="f. 158v." TYPE="INTERMEDIATE">
+     <div ORDER="306" TYPE="PAGE">
+      <fptr FILEID="0306"/>
+     </div>
+    </div>
+    <div LABEL="f. 159." TYPE="INTERMEDIATE">
+     <div ORDER="307" TYPE="PAGE">
+      <fptr FILEID="0307"/>
+     </div>
+    </div>
+    <div LABEL="f. 159v." TYPE="INTERMEDIATE">
+     <div ORDER="308" TYPE="PAGE">
+      <fptr FILEID="0308"/>
+     </div>
+    </div>
+    <div LABEL="f. 160." TYPE="INTERMEDIATE">
+     <div ORDER="309" TYPE="PAGE">
+      <fptr FILEID="0309"/>
+     </div>
+    </div>
+    <div LABEL="f. 160v." TYPE="INTERMEDIATE">
+     <div ORDER="310" TYPE="PAGE">
+      <fptr FILEID="0310"/>
+     </div>
+    </div>
+    <div LABEL="f. 161." TYPE="INTERMEDIATE">
+     <div ORDER="311" TYPE="PAGE">
+      <fptr FILEID="0311"/>
+     </div>
+    </div>
+    <div LABEL="f. 161v." TYPE="INTERMEDIATE">
+     <div ORDER="312" TYPE="PAGE">
+      <fptr FILEID="0312"/>
+     </div>
+    </div>
+    <div LABEL="f. 162." TYPE="INTERMEDIATE">
+     <div ORDER="313" TYPE="PAGE">
+      <fptr FILEID="0313"/>
+     </div>
+    </div>
+    <div LABEL="f. 162v." TYPE="INTERMEDIATE">
+     <div ORDER="314" TYPE="PAGE">
+      <fptr FILEID="0314"/>
+     </div>
+    </div>
+    <div LABEL="f. 163." TYPE="INTERMEDIATE">
+     <div ORDER="315" TYPE="PAGE">
+      <fptr FILEID="0315"/>
+     </div>
+    </div>
+    <div LABEL="f. 163v." TYPE="INTERMEDIATE">
+     <div ORDER="316" TYPE="PAGE">
+      <fptr FILEID="0316"/>
+     </div>
+    </div>
+    <div LABEL="f. 164." TYPE="INTERMEDIATE">
+     <div ORDER="317" TYPE="PAGE">
+      <fptr FILEID="0317"/>
+     </div>
+    </div>
+    <div LABEL="f. 164v." TYPE="INTERMEDIATE">
+     <div ORDER="318" TYPE="PAGE">
+      <fptr FILEID="0318"/>
+     </div>
+    </div>
+    <div LABEL="f. 165." TYPE="INTERMEDIATE">
+     <div ORDER="319" TYPE="PAGE">
+      <fptr FILEID="0319"/>
+     </div>
+    </div>
+    <div LABEL="f. 165v." TYPE="INTERMEDIATE">
+     <div ORDER="320" TYPE="PAGE">
+      <fptr FILEID="0320"/>
+     </div>
+    </div>
+    <div LABEL="f. 166." TYPE="INTERMEDIATE">
+     <div ORDER="321" TYPE="PAGE">
+      <fptr FILEID="0321"/>
+     </div>
+    </div>
+    <div LABEL="f. 166v." TYPE="INTERMEDIATE">
+     <div ORDER="322" TYPE="PAGE">
+      <fptr FILEID="0322"/>
+     </div>
+    </div>
+    <div LABEL="f. 167." TYPE="INTERMEDIATE">
+     <div ORDER="323" TYPE="PAGE">
+      <fptr FILEID="0323"/>
+     </div>
+    </div>
+    <div LABEL="f. 167v." TYPE="INTERMEDIATE">
+     <div ORDER="324" TYPE="PAGE">
+      <fptr FILEID="0324"/>
+     </div>
+    </div>
+    <div LABEL="f. 168." TYPE="INTERMEDIATE">
+     <div ORDER="325" TYPE="PAGE">
+      <fptr FILEID="0325"/>
+     </div>
+    </div>
+    <div LABEL="f. 168v. (ff. 169-170 missing)" TYPE="INTERMEDIATE">
+     <div ORDER="326" TYPE="PAGE">
+      <fptr FILEID="0326"/>
+     </div>
+    </div>
+    <div LABEL="f. 171." TYPE="INTERMEDIATE">
+     <div ORDER="327" TYPE="PAGE">
+      <fptr FILEID="0327"/>
+     </div>
+    </div>
+    <div LABEL="f. 171v." TYPE="INTERMEDIATE">
+     <div ORDER="328" TYPE="PAGE">
+      <fptr FILEID="0328"/>
+     </div>
+    </div>
+   </div>
+   <div LABEL="Back Matter" TYPE="INTERMEDIATE">
+    <div LABEL="Inside back cover" TYPE="INTERMEDIATE">
+     <div ORDER="329" TYPE="PAGE">
+      <fptr FILEID="0329"/>
+     </div>
+    </div>
+    <div LABEL="Back cover" TYPE="INTERMEDIATE">
+     <div ORDER="330" TYPE="PAGE">
+      <fptr FILEID="0001"/>
+     </div>
+    </div>
+   </div>
+  </div>
+ </structMap>
+</mets>

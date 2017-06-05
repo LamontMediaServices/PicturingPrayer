@@ -1,0 +1,223 @@
+
+.tool-display-container { 
+	width: 85%;
+ }
+
+
+.list {
+  margin:0;
+}
+
+@media (max-width: 992px) {
+
+	.tool-display-container { 
+		width: 85%;
+		padding-left: 0px;
+		padding-right: 0px;
+	 }
+
+
+	.list {
+	  margin:0;
+	  padding-left: 0px;
+		}
+}
+
+/*** ---------------------------- ***/
+/*** --------- Search Box-------- ***/
+/*** ---------------------------- ***/
+
+
+input#search {
+  border:solid 1px #ccc;
+  border-radius: 5px;
+  padding: auto;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom:10px;
+}
+
+input:focus {
+  outline:none;
+  border-color:#aaa;
+}
+
+.search-container input#search{
+  height: 50px;
+  background: #ddd;
+  border: none;
+  font-size: 1em;
+  float: left;
+  padding-left: 45px;
+  padding-right: 30px;
+
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.search-container .icon{
+  position: absolute;
+  z-index: 1;
+  margin-left: 17px;
+  margin-top: 15px;
+  color: rgb(165, 28, 48);
+
+}
+
+/*** ---------------------------- ***/
+/*** -------- Help Message------- ***/
+/*** ---------------------------- ***/
+
+
+.help-message{
+  text-align: center;
+}
+
+.alert-info {
+    color: #950C20;
+    background-color: #FEFBFB;
+    border-color: #DB9296;
+}
+
+/*** ---------------------------- ***/
+/*** -------- Button--------- ***/
+/*** ---------------------------- ***/
+
+
+.btn-group-vertical>.btn, .btn-group-vertical>.btn-group, .btn-group-vertical>.btn-group>.btn {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+}
+.btn-group-vertical>.btn, .btn-group>.btn {
+    position: relative;
+    float: left;
+}
+.btn-primary {
+    background: #A51C30;
+}
+.btn {
+    border-radius: 0px !important;
+    border: 0;
+    transition: .2s ease-out;
+    color: #fff !important;
+    margin: 0px 0px 2px 0px;
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+.btn {
+    font-size: 1em;
+    padding: 0.85rem 1.13rem;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.btn-group-vertical{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.sub-btn{
+  font-size: 1em;
+  width:90% !important;
+  position: center !important;
+  background: #60494d;
+  float: right;
+  position: relative;
+  margin-top: -1px;
+  margin-left: 0;
+
+}
+.sub-btn > input{
+    position: absolute;
+    clip: rect(0,0,0,0);
+    pointer-events: none;
+}
+
+.accordion-items{
+    margin-top: -1px;
+    margin-left: 0;
+}
+
+/*** ---------------------------- ***/
+/*** ---- Page Item Retrieved---- ***/
+/*** ---------------------------- ***/
+
+.list > li {
+  display:none;
+  background-color: #eee;
+  position: relative;
+  float: left;
+  width: 200px;
+  height: 257px;
+  margin: 7px;
+  padding: 0px 0px 0px 0px;
+  border: 1px solid rgba(0,0,0,.125);  
+  border-radius: 0%;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.list > li:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.list li > * {
+
+  white-space: nowrap;
+  overflow: hidden;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.5;
+  color: #222;
+
+
+}
+
+
+/* Page Representation */
+
+.list > li img {
+  max-width: 100%;
+  height: auto;
+  max-height: 210px;
+  left:0;
+  right:0;
+  margin: 0 auto;
+
+  border-style: none;
+  display: block;
+}
+
+
+/* Name of Book */
+
+.list > li .name {
+  padding: 0 5px 0 5px;
+  position: absolute;
+  left:0;
+  right:0;
+  margin: 0 auto;
+  bottom: 7px;
+  font-size: 1em;
+  text-align: center;
+  font-weight: 400;
+}
+
+
+/* Searchable index (page label) */
+
+
+
+.list > li .label {
+  padding: 0 0 0 5px;
+  position: absolute;
+  left:0;
+  right:0;
+  margin: 0 auto;
+  bottom: 27px;
+  font-size: 1em;
+  text-align: center;
+  font-weight: 600;
+}

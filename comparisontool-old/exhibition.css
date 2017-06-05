@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:#white;
+	overflow:auto;
+}
+
+#instructions {
+	position:relative;
+	width:600px;
+	margin:auto;
+}
+
+.bookRow {
+	position:relative;
+	height:190px;
+	width:565px;
+	margin:auto;
+}
+
+.bookIcon {
+	width:100px;
+	position:absolute;
+	bottom:0px;
+	margin-bottom:5px;
+	text-align:center;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+}
+
+.bookIcon a:link, .bookIcon a:visited {
+	text-decoration:none;
+	color:black;;
+}
+
+.bookIcon a:hover, .bookIcon a:active {
+	font-weight:bold;
+	color:#993300;
+}
+
+#lightsOut {
+	background-color:#ebe5d5;
+	width:100%;
+	height:100%;
+	position:fixed;
+	top:0px;
+	left:0px;
+	z-index:1;
+	display:none;
+	opacity: 0.65;
+	filter:alpha(opacity=65); /* For Internet Explorer */
+}
+
+.bookView {
+	position:relative;
+	width:600px;
+	margin:-400px auto auto auto;
+	z-index:2;
+	display:none;
+	text-align:right;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+
+.bookView object{
+	position:absolute;
+	border-style:solid;
+	border-width:2px;
+	border-color:black;
+	display:block;
+	margin:5px;
+	z-index:3;
+}
+
+.bookView a:link, .bookView a:visited {
+	text-decoration:none;
+	color:black;;
+}
+
+.bookView a:hover, .bookView a:active {
+	text-decoration:underline;
+	color:#CC3333;
+} 
